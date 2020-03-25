@@ -10,13 +10,13 @@ Feel free me to contact if you have any questions via email (alexandre.milovanof
 
 # Repository description
 The repository comprises 3 folders.
-* inputs: Contains the external and internal inputs to run the model.
-* source: Contains the python script to develop the model and run the simulations.
-* outputs: Contains the .csv files of the results presented in the manuscript and SI.
+* [inputs](https://github.com/amilovanoff/jie_milovanoff_et_al_2020/tree/master/inputs): Contains the external and internal inputs to run the model.
+* [source](https://github.com/amilovanoff/jie_milovanoff_et_al_2020/tree/master/source): Contains the python script to develop the model and run the simulations.
+* [outputs](https://github.com/amilovanoff/jie_milovanoff_et_al_2020/tree/master/outputs): Contains the .csv files of the results presented in the manuscript and SI.
 
 # How to set up the model
 The python-based model requires the Brightway2 software (https://brightway.dev/), and the ecoinvent 3.4 cutoff database (https://www.ecoinvent.org/) uploaded in the Brightway2 environment.
-* Run the 1-model_set_up.py script. It will adjust the local database to the model.
-* Run the 2-simulations.py script. It will simulate the different results of the manuscript.
+* Run the [1-model_set_up.py](https://github.com/amilovanoff/jie_milovanoff_et_al_2020/blob/master/source/1-model_set_up.py) script. It will adjust the local database to the model.
+* Run the [2-simulations.py](https://github.com/amilovanoff/jie_milovanoff_et_al_2020/blob/master/source/2-simulations.py) script. It will simulate the different results of the manuscript.
 
 The other scripts contain functions developed for the purpose of the model.
