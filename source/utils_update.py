@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 21 13:01:43 2018
-Functions to update the brightway activities and exchanges. Used temporally and spatially.
+Functions to update the brightway activities and exchanges.
 
 @author: Alexandre
 """

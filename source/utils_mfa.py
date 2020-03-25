@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May 31 12:17:53 2018
 Functions to calculate material flow matrices of bauxite, alumina and aluminum
 
 @author: Alexandre

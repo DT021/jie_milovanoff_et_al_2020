@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 31 15:34:39 2019
-Script to create the output files
+Script to create the simulation results
 @author: Alexandre
 """
 # Setup the environment
