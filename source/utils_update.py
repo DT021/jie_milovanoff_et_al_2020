@@ -346,7 +346,7 @@ def get_embodied_impacts(year,mineral,recipe_method_abb):
     #Inputs
     country_correspondence = pd.read_csv('inputs/country_correspondence.csv')
     list_cty_ein = country_correspondence.loc[:,'ecoinvent_country'].tolist()
-    if_spatial = pd.read_csv('outputs/if_aluminium_prod_spatial_all.csv')
+    if_spatial = pd.read_csv('outputs/spatial_if_aluminum.csv')
     if_spatial = if_spatial[(if_spatial.Midpoint_abb==recipe_method_abb) & (if_spatial.Year==year) & (if_spatial.Spatial_contribution!='GLO')].reset_index(drop=True)
     if_spatial["index_producer"]=0
     if_spatial["index_imp"]=0
@@ -384,7 +384,7 @@ def get_glo_if(mineral):
     #Inputs
     country_correspondence = pd.read_csv('inputs/country_correspondence.csv')
     list_cty_ein = country_correspondence.loc[:,'ecoinvent_country'].tolist()
-    if_dt = pd.read_csv('outputs/if_bauxite_alumina_aluminium.csv')
+    if_dt = pd.read_csv('outputs/if_alumina_aluminium.csv')
     mineral_act ={'bauxite':'bauxite production','alumina':'alumina production','aluminium':'aluminium production, primary, ingot'}
     if_dt = if_dt[(if_dt.Location!='GLO') & (if_dt.Name==mineral_act[mineral])].reset_index(drop=True)
     #Output

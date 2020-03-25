@@ -5,7 +5,7 @@ Script to create the simulation results
 """
 # Setup the environment
 import os
-wd_path="C:/Users/Alex Milovanoff/GitHub/jie_milovanoff_et_al_2020"
+wd_path="CHANGE/TO/REPOSITORY/DIRECTORY"
 os.chdir(wd_path)
 
 import pandas as pd
@@ -16,8 +16,8 @@ import source.utils_update as utils_update
 import source.utils_brightway as utils_bw
 
 # Upload database
-bw.projects.set_current('alu_project')
-bw_db_name = "ecoinvent 3.4 cutoff to edit"
+bw.projects.set_current('alu_project') #NOTE: change to the project name in Brightway2
+bw_db_name = "ecoinvent 3.4 cutoff to edit" # NOTE: Change to the name of the ecoinvent 3.4 database you have adjusted
 bw_db = bw.Database(bw_db_name)
 gwp_recipe_method = [method for method in bw.methods if 'ReCiPe Midpoint (H) V1.13' == method[0] 
                                                         and any(impact == method[1] for impact in ['climate change'])]
@@ -104,7 +104,7 @@ dtf.to_csv('outputs\country_domestic_production_ratio.csv',index=False)
 '''
 Calculate impact factors for selected ReCiPe midpoints of alumina production and consumption, aluminium production and consumption of the specified countries
 '''
-#Get list of top 20 producing countries
+#Get list of top 20 producing countries in 2017
 country_correspondence = pd.read_csv('inputs/country_correspondence.csv')
 list_countries = country_correspondence.loc[:,'cty Name English'].tolist()
 year=2017
@@ -113,7 +113,6 @@ mat_cons =  utils_mfa.calculate_mat_cons_kastner(mineral='aluminium',year=year,t
 country_list = [country_correspondence.loc[country_correspondence['cty Name English']==list_countries[index],'ecoinvent_country'].values[0] for index in np.argsort(mat_cons.sum(axis=1).A1,axis=0)[-21:].tolist() if str(country_correspondence.loc[country_correspondence['cty Name English']==list_countries[index],'ecoinvent_country'].values[0])!='nan']
 
 year_list = range(2000,2018)
-#country_list = ['IN', 'DE', 'US', 'CN','CA','ZA','QA','RU','BR','AU']
 multilca_list = ['alumina_production_recipe','alumina_consumption_recipe','aluminium_ingot_production_recipe']
 #Output
 lca_df = pd.DataFrame()
@@ -244,7 +243,6 @@ lca_df.to_csv('outputs/sensitivity_cons_mdl_if_alu_cons.csv',index=False)
 
 '''
 Calculate the spatial distribution of IFs for all producing countries. 
-Calculation time: 82 hours
 '''
 #Get all aluminum ingot production activities
 alu_cons_act = bw_db.get('market for consumption of aluminium')
@@ -344,7 +342,7 @@ contribution_df.to_csv('outputs/global_aluminium_prod_stage_spatial.csv',index=F
 
 '''
 Calculate the domestic production, consumption, embodied and exported emissions
-Requirememt: if_aluminium_prod_spatial_all.csv
+Requirememt: spatial_if_aluminum.csv
 '''
 country_correspondence = pd.read_csv('inputs/country_correspondence.csv')
 list_countries = country_correspondence.loc[:,'cty Name English'].tolist()

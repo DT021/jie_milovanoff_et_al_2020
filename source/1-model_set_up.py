@@ -7,7 +7,7 @@ Requirement: Brightway installed with the ecoinvent 3.4 cutoff database
 """
 
 import os
-wd_path="C:/Users/Alex Milovanoff/GitHub/jie_milovanoff_et_al_2020"
+wd_path="CHANGE/TO/REPOSITORY/DIRECTORY"
 os.chdir(wd_path)
 #
 import brightway2 as bw
@@ -16,7 +16,7 @@ import pandas as pd
 import time
 import source.utils_brightway as utils_bw
 
-bw.projects.set_current('alu_project')
+bw.projects.set_current('alu_project') #NOTE: change to the project name in Brightway2
 ''' ONLY RUN INITIALLY OR IF ISSUE WITH DATABASE
 del bw.databases["ecoinvent 3.4 cutoff to edit"]
 bw.databases
@@ -24,7 +24,7 @@ eidb_original = bw.Database("ecoinvent 3.4 cutoff")
 eidb_original.copy("ecoinvent 3.4 cutoff to edit")
 '''
 ei_version=3.4
-bw_db_name = "ecoinvent 3.4 cutoff to edit"
+bw_db_name = "ecoinvent 3.4 cutoff to edit" # NOTE: Change to the name of the ecoinvent 3.4 database you are willing to adjust
 bw_db = bw.Database(bw_db_name)
 
 '''

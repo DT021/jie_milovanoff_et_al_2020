@@ -4,7 +4,7 @@ This repository contains the input data, codes and results of the model develope
 
 # How to use this repository
 This repository will not be updated but can be cloned and serve as an example to develop trade-linked multilevel life cycle assessment. There are two ways to use this repository:
-* Install the model, reproduce it and re-use it for your own research.
+* Install the model, reproduce it and re-use it for your own research. Note: After downloading the repository, change the working directory of the 1-model_set_up.py and 2-simulations.py scripts to the repository directory (e.g., C:/Users/Alexandre/GitHub/jie_milovanoff_et_al_2020).
 * Download the repository and extract the numerical values of the simulations presented in [outputs](https://github.com/amilovanoff/jie_milovanoff_et_al_2020/tree/master/outputs) folder.
 
 Feel free me to contact if you have any questions via email (alexandre.milovanoff@mail.utoronto.ca) or by GitHub @amilovanoff.  
