@@ -1,4 +1,3 @@
-# Outputs description
 The folder contains all simulated results that can be directly used for further research. The simulation results are used in the manuscript and SI.
 
 # Files description
