@@ -1,0 +1,6 @@
+Year,Region,ecoinvent_activity,value
+2017,CN,"electricity production, hydro, aluminium industry",0.197
+2017,CN,"electricity production, coal, aluminium industry",0.652
+2017,CN,"electricity production, oil, aluminium industry",0.001
+2017,CN,"electricity production, nuclear, aluminium industry",0.036
+2017,CN,"electricity production, natural gas, aluminium industry",0.031

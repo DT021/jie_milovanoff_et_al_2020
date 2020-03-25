@@ -1,0 +1,6 @@
+ori_exc_input,ori_exc_input_loc,North America,China,Africa & Asia (ex China),South America,Europe,Oceania,source_iai
+"heat production, heavy fuel oil, at industrial furnace 1MW",RoW,,,,,,,Oil
+"market group for heat, district or industrial, natural gas",GLO,,,,,,,Gas
+"market group for electricity, medium voltage",GLO,,,,,,,Electricity
+"heat production, at hard coal industrial furnace 1-10MW",RoW,,,,,,,Coal
+"heat production, light fuel oil, at industrial furnace 1MW",RoW,,,,,,,Other

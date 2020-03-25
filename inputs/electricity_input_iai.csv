@@ -1,0 +1,685 @@
+Year,Category,Region,value
+1980,AC,Africa,16487
+1980,DC,Africa,ND
+1981,AC,Africa,16348
+1981,DC,Africa,ND
+1982,AC,Africa,16022
+1982,DC,Africa,ND
+1983,AC,Africa,15655
+1983,DC,Africa,ND
+1984,AC,Africa,15880
+1984,DC,Africa,ND
+1985,AC,Africa,16393
+1985,DC,Africa,ND
+1986,AC,Africa,15933
+1986,DC,Africa,ND
+1987,AC,Africa,15870
+1987,DC,Africa,ND
+1988,AC,Africa,15608
+1988,DC,Africa,ND
+1989,AC,Africa,15763
+1989,DC,Africa,ND
+1990,AC,Africa,15590
+1990,DC,Africa,ND
+1991,AC,Africa,15483
+1991,DC,Africa,ND
+1992,AC,Africa,15424
+1992,DC,Africa,ND
+1993,AC,Africa,15754
+1993,DC,Africa,ND
+1994,AC,Africa,15760
+1994,DC,Africa,ND
+1995,AC,Africa,15817
+1995,DC,Africa,ND
+1996,AC,Africa,15238
+1996,DC,Africa,ND
+1997,AC,Africa,15132
+1997,DC,Africa,ND
+1998,AC,Africa,15084
+1998,DC,Africa,ND
+1999,AC,Africa,15024
+1999,DC,Africa,ND
+2000,AC,Africa,15068
+2000,DC,Africa,ND
+2001,AC,Africa,14916
+2001,DC,Africa,ND
+2002,AC,Africa,14597
+2002,DC,Africa,ND
+2003,AC,Africa,14321
+2003,DC,Africa,ND
+2004,AC,Africa,14337
+2004,DC,Africa,ND
+2005,AC,Africa,14158
+2005,DC,Africa,ND
+2006,AC,Africa,14622
+2006,DC,Africa,13663
+2007,AC,Africa,14597
+2007,DC,Africa,13773
+2008,AC,Africa,14550
+2008,DC,Africa,13520
+2009,AC,Africa,14716
+2009,DC,Africa,13921
+2010,AC,Africa,14619
+2010,DC,Africa,13866
+2011,AC,Africa,14433
+2011,DC,Africa,13807
+2012,AC,Africa,14774
+2012,DC,Africa,13968
+2013,DC,Africa,15028
+2013,AC,Africa,15534
+2014,DC,Africa,13706
+2014,AC,Africa,14569
+2015,DC,Africa,13714
+2015,AC,Africa,14550
+1980,AC,North America,17477
+1980,DC,North America,ND
+1981,AC,North America,17151
+1981,DC,North America,ND
+1982,AC,North America,17009
+1982,DC,North America,ND
+1983,AC,North America,17264
+1983,DC,North America,ND
+1984,AC,North America,17325
+1984,DC,North America,ND
+1985,AC,North America,16955
+1985,DC,North America,ND
+1986,AC,North America,16713
+1986,DC,North America,ND
+1987,AC,North America,16839
+1987,DC,North America,ND
+1988,AC,North America,16640
+1988,DC,North America,ND
+1989,AC,North America,16856
+1989,DC,North America,ND
+1990,AC,North America,16443
+1990,DC,North America,ND
+1991,AC,North America,16273
+1991,DC,North America,ND
+1992,AC,North America,16164
+1992,DC,North America,ND
+1993,AC,North America,16015
+1993,DC,North America,ND
+1994,AC,North America,15987
+1994,DC,North America,ND
+1995,AC,North America,16048
+1995,DC,North America,ND
+1996,AC,North America,15984
+1996,DC,North America,ND
+1997,AC,North America,15985
+1997,DC,North America,ND
+1998,AC,North America,15940
+1998,DC,North America,ND
+1999,AC,North America,15371
+1999,DC,North America,ND
+2000,AC,North America,15772
+2000,DC,North America,ND
+2001,AC,North America,15201
+2001,DC,North America,ND
+2002,AC,North America,15224
+2002,DC,North America,ND
+2003,AC,North America,15529
+2003,DC,North America,ND
+2004,AC,North America,15613
+2004,DC,North America,ND
+2005,AC,North America,15552
+2005,DC,North America,ND
+2006,AC,North America,15563
+2006,DC,North America,14638
+2007,AC,North America,15421
+2007,DC,North America,14644
+2008,AC,North America,15498
+2008,DC,North America,14676
+2009,AC,North America,15006
+2009,DC,North America,14503
+2010,AC,North America,15120
+2010,DC,North America,14455
+2011,AC,North America,15409
+2011,DC,North America,14592
+2012,AC,North America,15458
+2012,DC,North America,14540
+2013,DC,North America,14373
+2013,AC,North America,15584
+2014,DC,North America,14117
+2014,AC,North America,14870
+2015,DC,North America,13772
+2015,AC,North America,15130
+1980,AC,Asia (ex China),15680
+1980,DC,Asia (ex China),ND
+1981,AC,Asia (ex China),15864
+1981,DC,Asia (ex China),ND
+1982,AC,Asia (ex China),16495
+1982,DC,Asia (ex China),ND
+1983,AC,Asia (ex China),16997
+1983,DC,Asia (ex China),ND
+1984,AC,Asia (ex China),16563
+1984,DC,Asia (ex China),ND
+1985,AC,Asia (ex China),16876
+1985,DC,Asia (ex China),ND
+1986,AC,Asia (ex China),16547
+1986,DC,Asia (ex China),ND
+1987,AC,Asia (ex China),16599
+1987,DC,Asia (ex China),ND
+1988,AC,Asia (ex China),16527
+1988,DC,Asia (ex China),ND
+1989,AC,Asia (ex China),16264
+1989,DC,Asia (ex China),ND
+1990,AC,Asia (ex China),16080
+1990,DC,Asia (ex China),ND
+1991,AC,Asia (ex China),16140
+1991,DC,Asia (ex China),ND
+1992,AC,Asia (ex China),16216
+1992,DC,Asia (ex China),ND
+1993,AC,Asia (ex China),15838
+1993,DC,Asia (ex China),ND
+1994,AC,Asia (ex China),15964
+1994,DC,Asia (ex China),ND
+1995,AC,Asia (ex China),16114
+1995,DC,Asia (ex China),ND
+1996,AC,Asia (ex China),15821
+1996,DC,Asia (ex China),ND
+1997,AC,Asia (ex China),15765
+1997,DC,Asia (ex China),ND
+1998,AC,Asia (ex China),15831
+1998,DC,Asia (ex China),ND
+1999,AC,Asia (ex China),15323
+1999,DC,Asia (ex China),ND
+2000,AC,Asia (ex China),15348
+2000,DC,Asia (ex China),ND
+2001,AC,Asia (ex China),15387
+2001,DC,Asia (ex China),ND
+2002,AC,Asia (ex China),15366
+2002,DC,Asia (ex China),ND
+2003,AC,Asia (ex China),15413
+2003,DC,Asia (ex China),ND
+2004,AC,Asia (ex China),15427
+2004,DC,Asia (ex China),ND
+2005,AC,Asia (ex China),15082
+2005,DC,Asia (ex China),ND
+2006,AC,Asia (ex China),15314
+2006,DC,Asia (ex China),14258
+2007,AC,Asia (ex China),15174
+2007,DC,Asia (ex China),14206
+2008,AC,Asia (ex China),15035
+2008,DC,Asia (ex China),14291
+2009,AC,Asia (ex China),14734
+2009,DC,Asia (ex China),13868
+2010,AC,Asia (ex China),14899
+2010,DC,Asia (ex China),14070
+2011,AC,Asia (ex China),14756
+2011,DC,Asia (ex China),13983
+2012,AC,Asia (ex China),14939
+2012,DC,Asia (ex China),14103
+2013,DC,Asia (ex China),14003
+2013,AC,Asia (ex China),14749
+2014,DC,Asia (ex China),13902
+2014,AC,Asia (ex China),14714
+2015,DC,Asia (ex China),13928
+2015,AC,Asia (ex China),14891
+1980,AC,South America,17348
+1980,DC,South America,ND
+1981,AC,South America,17396
+1981,DC,South America,ND
+1982,AC,South America,17135
+1982,DC,South America,ND
+1983,AC,South America,16905
+1983,DC,South America,ND
+1984,AC,South America,16357
+1984,DC,South America,ND
+1985,AC,South America,16284
+1985,DC,South America,ND
+1986,AC,South America,16463
+1986,DC,South America,ND
+1987,AC,South America,15922
+1987,DC,South America,ND
+1988,AC,South America,16067
+1988,DC,South America,ND
+1989,AC,South America,15867
+1989,DC,South America,ND
+1990,AC,South America,16067
+1990,DC,South America,ND
+1991,AC,South America,15947
+1991,DC,South America,ND
+1992,AC,South America,15755
+1992,DC,South America,ND
+1993,AC,South America,15465
+1993,DC,South America,ND
+1994,AC,South America,15636
+1994,DC,South America,ND
+1995,AC,South America,15607
+1995,DC,South America,ND
+1996,AC,South America,15678
+1996,DC,South America,ND
+1997,AC,South America,15654
+1997,DC,South America,ND
+1998,AC,South America,15958
+1998,DC,South America,ND
+1999,AC,South America,15340
+1999,DC,South America,ND
+2000,AC,South America,15357
+2000,DC,South America,ND
+2001,AC,South America,15275
+2001,DC,South America,ND
+2002,AC,South America,15307
+2002,DC,South America,ND
+2003,AC,South America,15359
+2003,DC,South America,ND
+2004,AC,South America,15551
+2004,DC,South America,ND
+2005,AC,South America,15152
+2005,DC,South America,ND
+2006,AC,South America,15238
+2006,DC,South America,15016
+2007,AC,South America,15085
+2007,DC,South America,14742
+2008,AC,South America,15598
+2008,DC,South America,14748
+2009,AC,South America,15498
+2009,DC,South America,14519
+2010,AC,South America,15739
+2010,DC,South America,14591
+2011,AC,South America,16075
+2011,DC,South America,14973
+2012,AC,South America,15912
+2012,DC,South America,14688
+2013,DC,South America,14443
+2013,AC,South America,15694
+2014,DC,South America,14236
+2014,AC,South America,15038
+2015,DC,South America,14607
+2015,AC,South America,15751
+1980,AC,Europe,16669
+1980,DC,Europe,ND
+1981,AC,Europe,16550
+1981,DC,Europe,ND
+1982,AC,Europe,16375
+1982,DC,Europe,ND
+1983,AC,Europe,16356
+1983,DC,Europe,ND
+1984,AC,Europe,16151
+1984,DC,Europe,ND
+1985,AC,Europe,16290
+1985,DC,Europe,ND
+1986,AC,Europe,16219
+1986,DC,Europe,ND
+1987,AC,Europe,16034
+1987,DC,Europe,ND
+1988,AC,Europe,16157
+1988,DC,Europe,ND
+1989,AC,Europe,15990
+1989,DC,Europe,ND
+1990,AC,Europe,15897
+1990,DC,Europe,ND
+1991,AC,Europe,15732
+1991,DC,Europe,ND
+1992,AC,Europe,15402
+1992,DC,Europe,ND
+1993,AC,Europe,15339
+1993,DC,Europe,ND
+1994,AC,Europe,15563
+1994,DC,Europe,ND
+1995,AC,Europe,15603
+1995,DC,Europe,ND
+1996,AC,Europe,15440
+1996,DC,Europe,ND
+1997,AC,Europe,15619
+1997,DC,Europe,ND
+1998,AC,Europe,15548
+1998,DC,Europe,ND
+1999,AC,Europe,15193
+1999,DC,Europe,ND
+2000,AC,Europe,15242
+2000,DC,Europe,ND
+2001,AC,Europe,15258
+2001,DC,Europe,ND
+2002,AC,Europe,15351
+2002,DC,Europe,ND
+2003,AC,Europe,15139
+2003,DC,Europe,ND
+2004,AC,Europe,15275
+2004,DC,Europe,ND
+2005,AC,Europe,15536
+2005,DC,Europe,ND
+2006,AC,Europe,15688
+2006,DC,Europe,14908
+2007,AC,Europe,15664
+2007,DC,Europe,14676
+2008,AC,Europe,15680
+2008,DC,Europe,14720
+2009,AC,Europe,15596
+2009,DC,Europe,14702
+2010,AC,Europe,15838
+2010,DC,Europe,14666
+2011,AC,Europe,15645
+2011,DC,Europe,14648
+2012,AC,Europe,15697
+2012,DC,Europe,14672
+2013,DC,Europe,14571
+2013,AC,Europe,15519
+2014,DC,Europe,14211
+2014,AC,Europe,15513
+2015,DC,Europe,14444
+2015,AC,Europe,15522
+1980,AC,Oceania,16678
+1980,DC,Oceania,ND
+1981,AC,Oceania,16094
+1981,DC,Oceania,ND
+1982,AC,Oceania,16468
+1982,DC,Oceania,ND
+1983,AC,Oceania,16647
+1983,DC,Oceania,ND
+1984,AC,Oceania,15867
+1984,DC,Oceania,ND
+1985,AC,Oceania,15902
+1985,DC,Oceania,ND
+1986,AC,Oceania,15936
+1986,DC,Oceania,ND
+1987,AC,Oceania,15670
+1987,DC,Oceania,ND
+1988,AC,Oceania,15702
+1988,DC,Oceania,ND
+1989,AC,Oceania,15265
+1989,DC,Oceania,ND
+1990,AC,Oceania,15397
+1990,DC,Oceania,ND
+1991,AC,Oceania,15550
+1991,DC,Oceania,ND
+1992,AC,Oceania,15448
+1992,DC,Oceania,ND
+1993,AC,Oceania,15297
+1993,DC,Oceania,ND
+1994,AC,Oceania,15180
+1994,DC,Oceania,ND
+1995,AC,Oceania,15238
+1995,DC,Oceania,ND
+1996,AC,Oceania,15231
+1996,DC,Oceania,ND
+1997,AC,Oceania,15187
+1997,DC,Oceania,ND
+1998,AC,Oceania,15259
+1998,DC,Oceania,ND
+1999,AC,Oceania,14852
+1999,DC,Oceania,ND
+2000,AC,Oceania,14679
+2000,DC,Oceania,ND
+2001,AC,Oceania,14791
+2001,DC,Oceania,ND
+2002,AC,Oceania,14506
+2002,DC,Oceania,ND
+2003,AC,Oceania,14782
+2003,DC,Oceania,ND
+2004,AC,Oceania,14768
+2004,DC,Oceania,ND
+2005,AC,Oceania,14763
+2005,DC,Oceania,ND
+2006,AC,Oceania,14854
+2006,DC,Oceania,14015
+2007,AC,Oceania,14871
+2007,DC,Oceania,14066
+2008,AC,Oceania,14736
+2008,DC,Oceania,14032
+2009,AC,Oceania,14424
+2009,DC,Oceania,14090
+2010,AC,Oceania,14846
+2010,DC,Oceania,14015
+2011,AC,Oceania,15003
+2011,DC,Oceania,14074
+2012,AC,Oceania,14911
+2012,DC,Oceania,13991
+2013,DC,Oceania,13971
+2013,AC,Oceania,14643
+2014,DC,Oceania,13940
+2014,AC,Oceania,14770
+2015,DC,Oceania,13990
+2015,AC,Oceania,14667
+1980,AC,GCC,ND
+1980,DC,GCC,ND
+1981,AC,GCC,ND
+1981,DC,GCC,ND
+1982,AC,GCC,ND
+1982,DC,GCC,ND
+1983,AC,GCC,ND
+1983,DC,GCC,ND
+1984,AC,GCC,ND
+1984,DC,GCC,ND
+1985,AC,GCC,ND
+1985,DC,GCC,ND
+1986,AC,GCC,ND
+1986,DC,GCC,ND
+1987,AC,GCC,ND
+1987,DC,GCC,ND
+1988,AC,GCC,ND
+1988,DC,GCC,ND
+1989,AC,GCC,ND
+1989,DC,GCC,ND
+1990,AC,GCC,ND
+1990,DC,GCC,ND
+1991,AC,GCC,ND
+1991,DC,GCC,ND
+1992,AC,GCC,ND
+1992,DC,GCC,ND
+1993,AC,GCC,ND
+1993,DC,GCC,ND
+1994,AC,GCC,ND
+1994,DC,GCC,ND
+1995,AC,GCC,ND
+1995,DC,GCC,ND
+1996,AC,GCC,ND
+1996,DC,GCC,ND
+1997,AC,GCC,ND
+1997,DC,GCC,ND
+1998,AC,GCC,ND
+1998,DC,GCC,ND
+1999,AC,GCC,ND
+1999,DC,GCC,ND
+2000,AC,GCC,ND
+2000,DC,GCC,ND
+2001,AC,GCC,ND
+2001,DC,GCC,ND
+2002,AC,GCC,ND
+2002,DC,GCC,ND
+2003,AC,GCC,ND
+2003,DC,GCC,ND
+2004,AC,GCC,ND
+2004,DC,GCC,ND
+2005,AC,GCC,ND
+2005,DC,GCC,ND
+2006,AC,GCC,ND
+2006,DC,GCC,ND
+2007,AC,GCC,ND
+2007,DC,GCC,ND
+2008,AC,GCC,ND
+2008,DC,GCC,ND
+2009,AC,GCC,14760
+2009,DC,GCC,14086
+2010,AC,GCC,14758
+2010,DC,GCC,13963
+2011,AC,GCC,14654
+2011,DC,GCC,13947
+2012,AC,GCC,14480
+2012,DC,GCC,13826
+2013,DC,GCC,13962
+2013,AC,GCC,14817
+2014,DC,GCC,13799
+2014,AC,GCC,14889
+2015,DC,GCC,13681
+2015,AC,GCC,14497
+1980,AC,China,ND
+1980,DC,China,ND
+1981,AC,China,ND
+1981,DC,China,ND
+1982,AC,China,ND
+1982,DC,China,ND
+1983,AC,China,ND
+1983,DC,China,ND
+1984,AC,China,ND
+1984,DC,China,ND
+1985,AC,China,ND
+1985,DC,China,ND
+1986,AC,China,ND
+1986,DC,China,ND
+1987,AC,China,ND
+1987,DC,China,ND
+1988,AC,China,ND
+1988,DC,China,ND
+1989,AC,China,ND
+1989,DC,China,ND
+1990,AC,China,ND
+1990,DC,China,ND
+1991,AC,China,ND
+1991,DC,China,ND
+1992,AC,China,ND
+1992,DC,China,ND
+1993,AC,China,ND
+1993,DC,China,ND
+1994,AC,China,ND
+1994,DC,China,ND
+1995,AC,China,16600
+1995,DC,China,14530
+1996,AC,China,16065
+1996,DC,China,14487
+1997,AC,China,15858
+1997,DC,China,14178
+1998,AC,China,15473
+1998,DC,China,14123
+1999,AC,China,15603
+1999,DC,China,14342
+2000,AC,China,15479
+2000,DC,China,14214
+2001,AC,China,15470
+2001,DC,China,13734
+2002,AC,China,15362
+2002,DC,China,13781
+2003,AC,China,15026
+2003,DC,China,13672
+2004,AC,China,14794
+2004,DC,China,13584
+2005,AC,China,14574
+2005,DC,China,13524
+2006,AC,China,14697
+2006,DC,China,13524
+2007,AC,China,14441
+2007,DC,China,13413
+2008,AC,China,14283
+2008,DC,China,13333
+2009,AC,China,14171
+2009,DC,China,13118
+2010,AC,China,13979
+2010,DC,China,13084
+2011,AC,China,13913
+2011,DC,China,13082
+2012,AC,China,13844
+2012,DC,China,13014
+2013,DC,China,12969
+2013,AC,China,13740
+2014,DC,China,12870
+2014,AC,China,13596
+2015,DC,China,12875
+2015,AC,China,13562
+1980,AC,World,16951
+1980,DC,World,ND
+1981,AC,World,16776
+1981,DC,World,ND
+1982,AC,World,16694
+1982,DC,World,ND
+1983,AC,World,16825
+1983,DC,World,ND
+1984,AC,World,16676
+1984,DC,World,ND
+1985,AC,World,16580
+1985,DC,World,ND
+1986,AC,World,16419
+1986,DC,World,ND
+1987,AC,World,16328
+1987,DC,World,ND
+1988,AC,World,16298
+1988,DC,World,ND
+1989,AC,World,16253
+1989,DC,World,ND
+1990,AC,World,16083
+1990,DC,World,ND
+1991,AC,World,15984
+1991,DC,World,ND
+1992,AC,World,15841
+1992,DC,World,ND
+1993,AC,World,15689
+1993,DC,World,ND
+1994,AC,World,15747
+1994,DC,World,ND
+1995,AC,World,15878
+1995,DC,World,ND
+1996,AC,World,15718
+1996,DC,World,ND
+1997,AC,World,15711
+1997,DC,World,ND
+1998,AC,World,15679
+1998,DC,World,ND
+1999,AC,World,15282
+1999,DC,World,ND
+2000,AC,World,15381
+2000,DC,World,ND
+2001,AC,World,15221
+2001,DC,World,ND
+2002,AC,World,15186
+2002,DC,World,ND
+2003,AC,World,15160
+2003,DC,World,ND
+2004,AC,World,15145
+2004,DC,World,ND
+2005,AC,World,15080
+2005,DC,World,ND
+2006,AC,World,15206
+2006,DC,World,14286
+2007,AC,World,15035
+2007,DC,World,14129
+2008,AC,World,15010
+2008,DC,World,14116
+2009,AC,World,14795
+2009,DC,World,13943
+2010,AC,World,14777
+2010,DC,World,13858
+2011,AC,World,14711
+2011,DC,World,13854
+2012,AC,World,14637
+2012,DC,World,13756
+2013,DC,World,13705
+2013,AC,World,14560
+2014,DC,World,13465
+2014,AC,World,14289
+2015,DC,World,13403
+2015,AC,World,14239
+2016,DC,Africa,13437
+2016,DC,North America,13589
+2016,DC,Asia (ex China),13789
+2016,DC,South America,14630
+2016,DC,Europe,14371
+2016,DC,Oceania,13740
+2016,DC,GCC,13664
+2016,DC,China,12908
+2016,DC,World,13374
+2016,AC,Africa,14280
+2016,AC,North America,15613
+2016,AC,Asia (ex China),14767
+2016,AC,South America,15944
+2016,AC,Europe,15513
+2016,AC,Oceania,14613
+2016,AC,GCC,14868
+2016,AC,China,13599
+2016,AC,World,14305
+2017,DC,Africa,13591
+2017,DC,North America,13761
+2017,DC,Asia (ex China),13672
+2017,DC,South America,14375
+2017,DC,Europe,14352
+2017,DC,Oceania,13743
+2017,DC,GCC,13826
+2017,DC,China,12911
+2017,DC,World,13360
+2017,AC,Africa,13892
+2017,AC,North America,14738
+2017,AC,Asia (ex China),14751
+2017,AC,South America,15159
+2017,AC,Europe,15141
+2017,AC,Oceania,14624
+2017,AC,GCC,15252
+2017,AC,China,13579
+2017,AC,World,14161

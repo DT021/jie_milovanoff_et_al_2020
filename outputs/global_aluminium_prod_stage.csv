@@ -1,0 +1,109 @@
+Stage,Score,Rel_Score,Year,Method_name,Midpoint,Midpoint_abb,Unit
+Aluminium consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Primary Aluminium Ingot production,4672789159.973669,0.012339849307939266,2000,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Primary Aluminium Liquid production,293461312582.8699,0.7749693493560238,2000,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Alumina consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Alumina production,79664630158.38092,0.2103774635816596,2000,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Bauxite consumption,876010077.4234364,0.0023133576066809588,2000,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Aluminium consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Primary Aluminium Ingot production,1320680.601703057,0.005337971521486539,2000,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Primary Aluminium Liquid production,216090046.66942337,0.8734000588110622,2000,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Alumina consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Alumina production,29879860.590547867,0.12076943107414105,2000,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Bauxite consumption,121865.47390795166,0.0004925599939411914,2000,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Aluminium consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Primary Aluminium Ingot production,11099424.514058394,0.12611246426207484,2000,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Primary Aluminium Liquid production,66593042.65759595,0.7566349680221548,2000,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Alumina consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Alumina production,9575712.232116645,0.10879993508917249,2000,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Bauxite consumption,743936.0334345995,0.008452655028281861,2000,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Aluminium consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Primary Aluminium Ingot production,299.635927652989,0.01782758676149795,2000,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Primary Aluminium Liquid production,7458.972524044834,0.4437901718449422,2000,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Alumina consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Alumina production,8931.7354051342,0.5314158722987992,2000,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Bauxite consumption,117.08707574931113,0.006966387568810974,2000,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Aluminium consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Primary Aluminium Ingot production,15887077.378791863,0.01699158623463235,2000,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Primary Aluminium Liquid production,715491913.1829797,0.7652346780446784,2000,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Alumina consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Alumina production,186999789.26651722,0.20000047645149271,2000,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Bauxite consumption,16617961.597476931,0.01777328332927215,2000,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Aluminium consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Primary Aluminium Ingot production,22079524.57679431,0.011511447928208528,2000,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Primary Aluminium Liquid production,1447127222.649673,0.7544786397499218,2000,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Alumina consumption,0.0,0.0,2000,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Alumina production,434900037.6552055,0.22674080322841292,2000,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Bauxite consumption,13942544.813672453,0.007269127469256717,2000,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Aluminium consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Primary Aluminium Ingot production,7894371585.30894,0.010400946195076519,2010,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Primary Aluminium Liquid production,604014329408.1902,0.7957974201418284,2010,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Alumina consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Alumina production,145593619715.18643,0.19182165276108226,2010,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Bauxite consumption,1502840080.229463,0.0019800130568162783,2010,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Aluminium consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Primary Aluminium Ingot production,2271650.163018813,0.007807185966611468,2010,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Primary Aluminium Liquid production,234804452.5027355,0.8069737393195892,2010,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Alumina consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Alumina production,53692638.55120445,0.18453035640410523,2010,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Bauxite consumption,200401.29329612374,0.0006887372845443407,2010,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Aluminium consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Primary Aluminium Ingot production,19483606.44274694,0.1450857298316975,2010,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Primary Aluminium Liquid production,95762214.95975815,0.7130985163636663,2010,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Alumina consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Alumina production,17768956.71824384,0.13231749786107794,2010,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Bauxite consumption,1275527.1672852936,0.009498282082916747,2010,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Aluminium consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Primary Aluminium Ingot production,483.47251081110994,0.023682001566772932,2010,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Primary Aluminium Liquid production,7219.767907688296,0.35364690045099906,2010,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Alumina consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Alumina production,12512.118614916928,0.6128828547976721,2010,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Bauxite consumption,199.8293919050765,0.00978827103167446,2010,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Aluminium consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Primary Aluminium Ingot production,26888068.761600927,0.013601632113528224,2010,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Primary Aluminium Liquid production,1574230613.7008328,0.7963422683592396,2010,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Alumina consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Alumina production,347165904.02248687,0.17561777867876754,2010,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Bauxite consumption,28542126.959652368,0.014438356063609404,2010,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Aluminium consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Primary Aluminium Ingot production,37889817.52159596,0.01005043718000947,2010,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Primary Aluminium Liquid production,2923687903.774971,0.7755208003864309,2010,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Alumina consumption,0.0,0.0,2010,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Alumina production,784460541.4993688,0.20808153504676807,2010,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Bauxite consumption,23928956.364477746,0.006347258668830912,2010,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Aluminium consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Primary Aluminium Ingot production,11189282722.43045,0.00934114585675248,2017,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Primary Aluminium Liquid production,996505227872.739,0.8319121887871737,2017,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Alumina consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Alumina production,187992594833.00937,0.15694180689565004,2017,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Bauxite consumption,2161971822.158645,0.00180487834921613,2017,ReCiPe Midpoint (H) V1.13,climate change,GWP100,kg CO2-Eq
+Aluminium consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Primary Aluminium Ingot production,3257560.241866708,0.009566460456659301,2017,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Primary Aluminium Liquid production,259419532.6990506,0.7618360113053126,2017,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Alumina consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Alumina production,77561713.69159803,0.22777508684113032,2017,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Bauxite consumption,280067.4303400863,0.0008224725864198609,2017,ReCiPe Midpoint (H) V1.13,freshwater eutrophication,FEP,kg P-Eq
+Aluminium consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Primary Aluminium Ingot production,28314047.770302154,0.1499344456727399,2017,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Primary Aluminium Liquid production,134066847.23942906,0.7099387055855484,2017,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Alumina consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Alumina production,24635132.794822354,0.13045308850330475,2017,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Bauxite consumption,1826824.902505312,0.009673783887077481,2017,ReCiPe Midpoint (H) V1.13,marine eutrophication,MEP,kg N-Eq
+Aluminium consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Primary Aluminium Ingot production,663.7002267994914,0.02769056758430125,2017,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Primary Aluminium Liquid production,9998.478432982683,0.41715149642750976,2017,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Alumina consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Alumina production,13021.162728531748,0.5432624127602138,2017,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Bauxite consumption,285.11818387464336,0.01189555769502427,2017,ReCiPe Midpoint (H) V1.13,ozone depletion,ODPinf,kg CFC-11.
+Aluminium consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Primary Aluminium Ingot production,38160840.86320131,0.011968211967524131,2017,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Primary Aluminium Liquid production,2642787724.91513,0.8288455642353405,2017,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Alumina consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Alumina production,466641289.64987344,0.1463505976545192,2017,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Bauxite consumption,40926668.49615753,0.012835645981767143,2017,ReCiPe Midpoint (H) V1.13,photochemical oxidant formation,POFP,kg NMVOC-.
+Aluminium consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Primary Aluminium Ingot production,54269830.54548424,0.009176150913797738,2017,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Primary Aluminium Liquid production,4753473666.741534,0.8037355431619879,2017,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Alumina consumption,0.0,0.0,2017,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Alumina production,1072172890.1711855,0.1812871008994174,2017,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq
+Bauxite consumption,34309746.89917847,0.005801223482671489,2017,ReCiPe Midpoint (H) V1.13,terrestrial acidification,TAP100,kg SO2-Eq

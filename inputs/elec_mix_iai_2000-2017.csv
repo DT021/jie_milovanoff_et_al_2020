@@ -1,0 +1,991 @@
+"Year","Region","ecoinvent_activity","value"
+2000,"CA-QC","electricity production, hydro, aluminium industry",1
+2000,"CN","electricity production, hydro, aluminium industry",0.100004624491306
+2000,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.389345647032323
+2000,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.47376044919999
+2000,"IAI Area, South America","electricity production, hydro, aluminium industry",0.917657326872724
+2000,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.257283390087022
+2000,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2000,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.453840631730079
+2000,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.453840631730079
+2000,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.252472006890612
+2000,"GLO","electricity production, hydro, aluminium industry",0.462894103506283
+2001,"CA-QC","electricity production, hydro, aluminium industry",1
+2001,"CN","electricity production, hydro, aluminium industry",0.100001917582312
+2001,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.339251743817375
+2001,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.324964596009981
+2001,"IAI Area, South America","electricity production, hydro, aluminium industry",0.959970193740686
+2001,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.260447385456376
+2001,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2001,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.447576502817296
+2001,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.447576502817296
+2001,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.229355753001497
+2001,"GLO","electricity production, hydro, aluminium industry",0.434825786721373
+2002,"CA-QC","electricity production, hydro, aluminium industry",1
+2002,"CN","electricity production, hydro, aluminium industry",0.10000150650055
+2002,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.320373868947002
+2002,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.278559241524362
+2002,"IAI Area, South America","electricity production, hydro, aluminium industry",0.959970193740686
+2002,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.229215523110674
+2002,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2002,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.454820008498756
+2002,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.454820008498756
+2002,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.234285714285714
+2002,"GLO","electricity production, hydro, aluminium industry",0.42381066696632
+2003,"CA-QC","electricity production, hydro, aluminium industry",1
+2003,"CN","electricity production, hydro, aluminium industry",0.100001199774442
+2003,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.23636803874092
+2003,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.290955491615022
+2003,"IAI Area, South America","electricity production, hydro, aluminium industry",0.959185439441576
+2003,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.0755878175792962
+2003,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2003,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.467852136058437
+2003,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.467852136058437
+2003,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.227544541027064
+2003,"GLO","electricity production, hydro, aluminium industry",0.409789764179419
+2004,"CA-QC","electricity production, hydro, aluminium industry",1
+2004,"CN","electricity production, hydro, aluminium industry",0.100003031619794
+2004,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.213071416951358
+2004,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.322702834799609
+2004,"IAI Area, South America","electricity production, hydro, aluminium industry",0.957011788407612
+2004,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.274300709061471
+2004,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2004,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.553104215429538
+2004,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.553104215429538
+2004,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.226568154402895
+2004,"GLO","electricity production, hydro, aluminium industry",0.435076044629643
+2005,"CA-QC","electricity production, hydro, aluminium industry",1
+2005,"CN","electricity production, hydro, aluminium industry",0.0999964839492282
+2005,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.233938856889677
+2005,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.337561332785319
+2005,"IAI Area, South America","electricity production, hydro, aluminium industry",0.959199005981449
+2005,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.207410585017963
+2005,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2005,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.6991623808354
+2005,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.6991623808354
+2005,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.230145136572613
+2005,"GLO","electricity production, hydro, aluminium industry",0.507480295238901
+2006,"CA-QC","electricity production, hydro, aluminium industry",1
+2006,"CN","electricity production, hydro, aluminium industry",0.0999985444171118
+2006,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.253245324532453
+2006,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.35562360422315
+2006,"IAI Area, South America","electricity production, hydro, aluminium industry",0.962926777745505
+2006,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.201307932897356
+2006,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2006,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.633092585478294
+2006,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.633092585478294
+2006,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.224365813181603
+2006,"GLO","electricity production, hydro, aluminium industry",0.468221089157992
+2007,"CA-QC","electricity production, hydro, aluminium industry",1
+2007,"CN","electricity production, hydro, aluminium industry",0.0999983496806632
+2007,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.506784771956276
+2007,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.434227008459332
+2007,"IAI Area, South America","electricity production, hydro, aluminium industry",0.937263813706465
+2007,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.194546912590217
+2007,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2007,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.639201622835615
+2007,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.639201622835615
+2007,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.227445739024319
+2007,"GLO","electricity production, hydro, aluminium industry",0.462473260537127
+2008,"CA-QC","electricity production, hydro, aluminium industry",1
+2008,"CN","electricity production, hydro, aluminium industry",0.100002061473129
+2008,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.21977156360772
+2008,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.360540198620826
+2008,"IAI Area, South America","electricity production, hydro, aluminium industry",0.896809331019857
+2008,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.15938108277523
+2008,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2008,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.659197223479704
+2008,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.659197223479704
+2008,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.218092649491846
+2008,"GLO","electricity production, hydro, aluminium industry",0.448654332526941
+2009,"CA-QC","electricity production, hydro, aluminium industry",1
+2009,"CN","electricity production, hydro, aluminium industry",0.100002062748819
+2009,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.201356096379707
+2009,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.22818109911954
+2009,"IAI Area, South America","electricity production, hydro, aluminium industry",0.813698349225879
+2009,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.0254717779470255
+2009,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2009,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.757756063084016
+2009,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.757756063084016
+2009,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.355908410282006
+2009,"GLO","electricity production, hydro, aluminium industry",0.451086888586107
+2010,"CA-QC","electricity production, hydro, aluminium industry",1
+2010,"CN","electricity production, hydro, aluminium industry",0.1
+2010,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.43667063020214
+2010,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.322158462098194
+2010,"IAI Area, South America","electricity production, hydro, aluminium industry",0.839043067710732
+2010,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.366981563309462
+2010,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2010,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.765569783640413
+2010,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.765569783640413
+2010,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.225106916065489
+2010,"GLO","electricity production, hydro, aluminium industry",0.47312536231992
+2011,"CA-QC","electricity production, hydro, aluminium industry",1
+2011,"CN","electricity production, hydro, aluminium industry",0.0999992838266574
+2011,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.462901179455853
+2011,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.403743334708343
+2011,"IAI Area, South America","electricity production, hydro, aluminium industry",0.855287133368601
+2011,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.24547294142064
+2011,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2011,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.788425594956116
+2011,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.788425594956116
+2011,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.235827533427672
+2011,"GLO","electricity production, hydro, aluminium industry",0.439617331956456
+2012,"CA-QC","electricity production, hydro, aluminium industry",1
+2012,"CN","electricity production, hydro, aluminium industry",0.100001227724474
+2012,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.479125146916041
+2012,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.45058665630629
+2012,"IAI Area, South America","electricity production, hydro, aluminium industry",0.852574985851726
+2012,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.0854925112058599
+2012,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2012,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.814016629899881
+2012,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.814016629899881
+2012,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.24467680608365
+2012,"GLO","electricity production, hydro, aluminium industry",0.429621839192391
+2013,"CA-QC","electricity production, hydro, aluminium industry",1
+2013,"CN","electricity production, hydro, aluminium industry",0.100000822871437
+2013,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.418144080255989
+2013,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.522957228759897
+2013,"IAI Area, South America","electricity production, hydro, aluminium industry",0.778613413164908
+2013,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.0428592396888302
+2013,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2013,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.836572101562229
+2013,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.836572101562229
+2013,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.335555555555556
+2013,"GLO","electricity production, hydro, aluminium industry",0.410274641916067
+2014,"CA-QC","electricity production, hydro, aluminium industry",1
+2014,"CN","electricity production, hydro, aluminium industry",0.100000519483218
+2014,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.500610918332437
+2014,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.556576083735394
+2014,"IAI Area, South America","electricity production, hydro, aluminium industry",0.706295365055268
+2014,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.0334087988741357
+2014,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2014,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.842009551637991
+2014,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.842009551637991
+2014,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.258143863847893
+2014,"GLO","electricity production, hydro, aluminium industry",0.381119216033009
+2015,"CA-QC","electricity production, hydro, aluminium industry",1
+2015,"CN","electricity production, hydro, aluminium industry",0.100000701841398
+2015,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.565870834764686
+2015,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.265706060143936
+2015,"IAI Area, South America","electricity production, hydro, aluminium industry",0.721801942505735
+2015,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.144942077898385
+2015,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2015,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.823263306917482
+2015,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.823263306917482
+2015,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.272370864571153
+2015,"GLO","electricity production, hydro, aluminium industry",0.368741587268073
+2016,"CA-QC","electricity production, hydro, aluminium industry",1
+2016,"CN","electricity production, hydro, aluminium industry",0.100000901132273
+2016,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.586965376782077
+2016,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.794403923074693
+2016,"IAI Area, South America","electricity production, hydro, aluminium industry",0.734977245286524
+2016,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.10014037446371
+2016,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2016,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.769798492214472
+2016,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.769798492214472
+2016,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.272771418661117
+2016,"GLO","electricity production, hydro, aluminium industry",0.33459607896833
+2017,"CA-QC","electricity production, hydro, aluminium industry",1
+2017,"CN","electricity production, hydro, aluminium industry",0.099999179578057
+2017,"IAI Area, Africa","electricity production, hydro, aluminium industry",0.551138862017413
+2017,"IAI Area, North America, without Quebec","electricity production, hydro, aluminium industry",0.861569191614549
+2017,"IAI Area, South America","electricity production, hydro, aluminium industry",0.827776606954689
+2017,"IAI Area, Asia, without China and GCC","electricity production, hydro, aluminium industry",0.0823793792255685
+2017,"IAI Area, Gulf Cooperation Council","electricity production, hydro, aluminium industry",0
+2017,"IAI Area, EU27 & EFTA","electricity production, hydro, aluminium industry",0.779535674440844
+2017,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, hydro, aluminium industry",0.779535674440844
+2017,"UN-OCEANIA","electricity production, hydro, aluminium industry",0.300164191072588
+2017,"GLO","electricity production, hydro, aluminium industry",0.310629336534982
+2000,"CA-QC","electricity production, coal, aluminium industry",0
+2000,"CN","electricity production, coal, aluminium industry",0.899995375508694
+2000,"IAI Area, Africa","electricity production, coal, aluminium industry",0.610654352967677
+2000,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.477819088811124
+2000,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2000,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.714112750662126
+2000,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2000,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.22790141182101
+2000,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.22790141182101
+2000,"UN-OCEANIA","electricity production, coal, aluminium industry",0.747527993109388
+2000,"GLO","electricity production, coal, aluminium industry",0.369824068407779
+2001,"CA-QC","electricity production, coal, aluminium industry",0
+2001,"CN","electricity production, coal, aluminium industry",0.899998082417688
+2001,"IAI Area, Africa","electricity production, coal, aluminium industry",0.64996829422955
+2001,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.642387139588976
+2001,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2001,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.71042221103359
+2001,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2001,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.263549481679793
+2001,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.263549481679793
+2001,"UN-OCEANIA","electricity production, coal, aluminium industry",0.770644246998503
+2001,"GLO","electricity production, coal, aluminium industry",0.411922032551736
+2002,"CA-QC","electricity production, coal, aluminium industry",0
+2002,"CN","electricity production, coal, aluminium industry",0.89999849349945
+2002,"IAI Area, Africa","electricity production, coal, aluminium industry",0.668340459381525
+2002,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.692908628373076
+2002,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2002,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.762538769952341
+2002,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2002,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.239376555575791
+2002,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.239376555575791
+2002,"UN-OCEANIA","electricity production, coal, aluminium industry",0.765714285714286
+2002,"GLO","electricity production, coal, aluminium industry",0.424395501118591
+2003,"CA-QC","electricity production, coal, aluminium industry",0
+2003,"CN","electricity production, coal, aluminium industry",0.899998800225558
+2003,"IAI Area, Africa","electricity production, coal, aluminium industry",0.747312348668281
+2003,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.690006394045724
+2003,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2003,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.916048603440114
+2003,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2003,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.245628274182838
+2003,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.245628274182838
+2003,"UN-OCEANIA","electricity production, coal, aluminium industry",0.772393810492571
+2003,"GLO","electricity production, coal, aluminium industry",0.450246265295758
+2004,"CA-QC","electricity production, coal, aluminium industry",0
+2004,"CN","electricity production, coal, aluminium industry",0.899996968380206
+2004,"IAI Area, Africa","electricity production, coal, aluminium industry",0.768586302261266
+2004,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.656742951334982
+2004,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2004,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.720339456200101
+2004,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2004,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.196252694027948
+2004,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.196252694027948
+2004,"UN-OCEANIA","electricity production, coal, aluminium industry",0.773371531966224
+2004,"GLO","electricity production, coal, aluminium industry",0.428696482739076
+2005,"CA-QC","electricity production, coal, aluminium industry",0
+2005,"CN","electricity production, coal, aluminium industry",0.900003516050772
+2005,"IAI Area, Africa","electricity production, coal, aluminium industry",0.724694888629315
+2005,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.643172263244403
+2005,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2005,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.760469730280444
+2005,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2005,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.109675016443328
+2005,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.109675016443328
+2005,"UN-OCEANIA","electricity production, coal, aluminium industry",0.769794765467712
+2005,"GLO","electricity production, coal, aluminium industry",0.36544191694549
+2006,"CA-QC","electricity production, coal, aluminium industry",0
+2006,"CN","electricity production, coal, aluminium industry",0.900001455582888
+2006,"IAI Area, Africa","electricity production, coal, aluminium industry",0.728932893289329
+2006,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.622543787832933
+2006,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2006,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.711564239002397
+2006,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2006,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.198056089127929
+2006,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.198056089127929
+2006,"UN-OCEANIA","electricity production, coal, aluminium industry",0.775574917022285
+2006,"GLO","electricity production, coal, aluminium industry",0.41776915103875
+2007,"CA-QC","electricity production, coal, aluminium industry",0
+2007,"CN","electricity production, coal, aluminium industry",0.900001650319337
+2007,"IAI Area, Africa","electricity production, coal, aluminium industry",0.492989068978515
+2007,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.545615831731699
+2007,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2007,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.750922213311949
+2007,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2007,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.201876403680359
+2007,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.201876403680359
+2007,"UN-OCEANIA","electricity production, coal, aluminium industry",0.772496150158352
+2007,"GLO","electricity production, coal, aluminium industry",0.432773396031595
+2008,"CA-QC","electricity production, coal, aluminium industry",0
+2008,"CN","electricity production, coal, aluminium industry",0.899997938526871
+2008,"IAI Area, Africa","electricity production, coal, aluminium industry",0.78022843639228
+2008,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.619774243777013
+2008,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2008,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.83811157665534
+2008,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2008,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.168614620629107
+2008,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.168614620629107
+2008,"UN-OCEANIA","electricity production, coal, aluminium industry",0.781848262822028
+2008,"GLO","electricity production, coal, aluminium industry",0.439333626566967
+2009,"CA-QC","electricity production, coal, aluminium industry",0
+2009,"CN","electricity production, coal, aluminium industry",0.899997937251181
+2009,"IAI Area, Africa","electricity production, coal, aluminium industry",0.798643903620293
+2009,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.741372484618016
+2009,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2009,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.974062790894474
+2009,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2009,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.1057372266373
+2009,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.1057372266373
+2009,"UN-OCEANIA","electricity production, coal, aluminium industry",0.643842026453706
+2009,"GLO","electricity production, coal, aluminium industry",0.437800785009813
+2010,"CA-QC","electricity production, coal, aluminium industry",0
+2010,"CN","electricity production, coal, aluminium industry",0.9
+2010,"IAI Area, Africa","electricity production, coal, aluminium industry",0.56332936979786
+2010,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.651801861185899
+2010,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2010,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.622504952003657
+2010,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2010,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.109053416970336
+2010,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.109053416970336
+2010,"UN-OCEANIA","electricity production, coal, aluminium industry",0.77463389347272
+2010,"GLO","electricity production, coal, aluminium industry",0.446776041953853
+2011,"CA-QC","electricity production, coal, aluminium industry",0
+2011,"CN","electricity production, coal, aluminium industry",0.900000716173343
+2011,"IAI Area, Africa","electricity production, coal, aluminium industry",0.537098820544147
+2011,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.550017086842666
+2011,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2011,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.754163856171847
+2011,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2011,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.0879320591553906
+2011,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.0879320591553906
+2011,"UN-OCEANIA","electricity production, coal, aluminium industry",0.76394143298582
+2011,"GLO","electricity production, coal, aluminium industry",0.472429975477848
+2012,"CA-QC","electricity production, coal, aluminium industry",0
+2012,"CN","electricity production, coal, aluminium industry",0.899998772275526
+2012,"IAI Area, Africa","electricity production, coal, aluminium industry",0.520874853083959
+2012,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.523626602620704
+2012,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2012,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.91450748879414
+2012,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2012,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.0723538015240035
+2012,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.0723538015240035
+2012,"UN-OCEANIA","electricity production, coal, aluminium industry",0.754847908745247
+2012,"GLO","electricity production, coal, aluminium industry",0.47864706073295
+2013,"CA-QC","electricity production, coal, aluminium industry",0
+2013,"CN","electricity production, coal, aluminium industry",0.899999177128563
+2013,"IAI Area, Africa","electricity production, coal, aluminium industry",0.581855919744011
+2013,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.359275637513484
+2013,"IAI Area, South America","electricity production, coal, aluminium industry",0.00186192544996532
+2013,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.95714076031117
+2013,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2013,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.0622207211888185
+2013,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.0622207211888185
+2013,"UN-OCEANIA","electricity production, coal, aluminium industry",0.663747276688453
+2013,"GLO","electricity production, coal, aluminium industry",0.49923636644778
+2014,"CA-QC","electricity production, coal, aluminium industry",0
+2014,"CN","electricity production, coal, aluminium industry",0.899999480516782
+2014,"IAI Area, Africa","electricity production, coal, aluminium industry",0.499389081667563
+2014,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.403116902047577
+2014,"IAI Area, South America","electricity production, coal, aluminium industry",0.00246691019498079
+2014,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.966591201125864
+2014,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2014,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.0604878221029494
+2014,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.0604878221029494
+2014,"UN-OCEANIA","electricity production, coal, aluminium industry",0.741856136152107
+2014,"GLO","electricity production, coal, aluminium industry",0.512339129580509
+2015,"CA-QC","electricity production, coal, aluminium industry",0
+2015,"CN","electricity production, coal, aluminium industry",0.899999298158602
+2015,"IAI Area, Africa","electricity production, coal, aluminium industry",0.434129165235314
+2015,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.682685841656645
+2015,"IAI Area, South America","electricity production, coal, aluminium industry",0.00248914051442237
+2015,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.855057922101615
+2015,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2015,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.0576700893365662
+2015,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.0576700893365662
+2015,"UN-OCEANIA","electricity production, coal, aluminium industry",0.727629135428847
+2015,"GLO","electricity production, coal, aluminium industry",0.521922589669825
+2016,"CA-QC","electricity production, coal, aluminium industry",0
+2016,"CN","electricity production, coal, aluminium industry",0.899999098867727
+2016,"IAI Area, Africa","electricity production, coal, aluminium industry",0.413034623217923
+2016,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.17366846598013
+2016,"IAI Area, South America","electricity production, coal, aluminium industry",0.00260053868301291
+2016,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.89985962553629
+2016,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2016,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.0998115268089903
+2016,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.0998115268089903
+2016,"UN-OCEANIA","electricity production, coal, aluminium industry",0.721540062434964
+2016,"GLO","electricity production, coal, aluminium industry",0.552550105029575
+2017,"CA-QC","electricity production, coal, aluminium industry",0
+2017,"CN","electricity production, coal, aluminium industry",0.900000820421943
+2017,"IAI Area, Africa","electricity production, coal, aluminium industry",0.448861137982587
+2017,"IAI Area, North America, without Quebec","electricity production, coal, aluminium industry",0.107525243488993
+2017,"IAI Area, South America","electricity production, coal, aluminium industry",0
+2017,"IAI Area, Asia, without China and GCC","electricity production, coal, aluminium industry",0.917486170866626
+2017,"IAI Area, Gulf Cooperation Council","electricity production, coal, aluminium industry",0
+2017,"IAI Area, EU27 & EFTA","electricity production, coal, aluminium industry",0.0755990012219094
+2017,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, coal, aluminium industry",0.0755990012219094
+2017,"UN-OCEANIA","electricity production, coal, aluminium industry",0.695177364542365
+2017,"GLO","electricity production, coal, aluminium industry",0.574860903341649
+2000,"CA-QC","electricity production, oil, aluminium industry",0
+2000,"CN","electricity production, oil, aluminium industry",0
+2000,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2000,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.00283381556704367
+2000,"IAI Area, South America","electricity production, oil, aluminium industry",0.0155897312426641
+2000,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.0286038592508513
+2000,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2000,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.0167823243200128
+2000,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.0167823243200128
+2000,"UN-OCEANIA","electricity production, oil, aluminium industry",0
+2000,"GLO","electricity production, oil, aluminium industry",0.00864427570574337
+2001,"CA-QC","electricity production, oil, aluminium industry",0
+2001,"CN","electricity production, oil, aluminium industry",0
+2001,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2001,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.00412603171819801
+2001,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2001,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.0291304035100338
+2001,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2001,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.0174329919372412
+2001,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.0174329919372412
+2001,"UN-OCEANIA","electricity production, oil, aluminium industry",0
+2001,"GLO","electricity production, oil, aluminium industry",0.00760193503800968
+2002,"CA-QC","electricity production, oil, aluminium industry",0
+2002,"CN","electricity production, oil, aluminium industry",0
+2002,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2002,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.0023649626555599
+2002,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2002,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.00824570693698464
+2002,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2002,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.0194105505979482
+2002,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.0194105505979482
+2002,"UN-OCEANIA","electricity production, oil, aluminium industry",0
+2002,"GLO","electricity production, oil, aluminium industry",0.00704865615838024
+2003,"CA-QC","electricity production, oil, aluminium industry",0
+2003,"CN","electricity production, oil, aluminium industry",0
+2003,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2003,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.000125250752231934
+2003,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2003,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.00836357898059019
+2003,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2003,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.016571976684129
+2003,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.016571976684129
+2003,"UN-OCEANIA","electricity production, oil, aluminium industry",6.1648480364959e-05
+2003,"GLO","electricity production, oil, aluminium industry",0.00565116568767428
+2004,"CA-QC","electricity production, oil, aluminium industry",0
+2004,"CN","electricity production, oil, aluminium industry",0
+2004,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2004,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.000137762827516148
+2004,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2004,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.0053598347384289
+2004,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2004,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.0215290491529744
+2004,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.0215290491529744
+2004,"UN-OCEANIA","electricity production, oil, aluminium industry",6.0313630880579e-05
+2004,"GLO","electricity production, oil, aluminium industry",0.00801696178350634
+2005,"CA-QC","electricity production, oil, aluminium industry",0
+2005,"CN","electricity production, oil, aluminium industry",0
+2005,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2005,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.000108543120959312
+2005,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2005,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.0321196847015926
+2005,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2005,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.013645981092154
+2005,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.013645981092154
+2005,"UN-OCEANIA","electricity production, oil, aluminium industry",6.00979596742691e-05
+2005,"GLO","electricity production, oil, aluminium industry",0.00699404581972324
+2006,"CA-QC","electricity production, oil, aluminium industry",0
+2006,"CN","electricity production, oil, aluminium industry",0
+2006,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2006,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.000209640954193993
+2006,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2006,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.0871278281002478
+2006,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2006,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.00756819054936612
+2006,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.00756819054936612
+2006,"UN-OCEANIA","electricity production, oil, aluminium industry",5.92697961119014e-05
+2006,"GLO","electricity production, oil, aluminium industry",0.0066374387598097
+2007,"CA-QC","electricity production, oil, aluminium industry",0
+2007,"CN","electricity production, oil, aluminium industry",0
+2007,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2007,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.000188384671111862
+2007,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2007,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.0545308740978348
+2007,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2007,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.00562196623922336
+2007,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.00562196623922336
+2007,"UN-OCEANIA","electricity production, oil, aluminium industry",5.81108173286457e-05
+2007,"GLO","electricity production, oil, aluminium industry",0.00424200793216273
+2008,"CA-QC","electricity production, oil, aluminium industry",0
+2008,"CN","electricity production, oil, aluminium industry",0
+2008,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2008,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.000179659586981907
+2008,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2008,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.00250734056943024
+2008,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2008,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.00503450073391223
+2008,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.00503450073391223
+2008,"UN-OCEANIA","electricity production, oil, aluminium industry",5.90876861262113e-05
+2008,"GLO","electricity production, oil, aluminium industry",0.00213464921926545
+2009,"CA-QC","electricity production, oil, aluminium industry",0
+2009,"CN","electricity production, oil, aluminium industry",0
+2009,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2009,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.000314807849094699
+2009,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2009,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.000465431158500465
+2009,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2009,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.00306544268115287
+2009,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.00306544268115287
+2009,"UN-OCEANIA","electricity production, oil, aluminium industry",0.000249563264287497
+2009,"GLO","electricity production, oil, aluminium industry",0.00120626507831348
+2010,"CA-QC","electricity production, oil, aluminium industry",0
+2010,"CN","electricity production, oil, aluminium industry",0
+2010,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2010,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.000283480150873022
+2010,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2010,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.010513484686881
+2010,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2010,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.0018731750316787
+2010,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.0018731750316787
+2010,"UN-OCEANIA","electricity production, oil, aluminium industry",0.000259190461791006
+2010,"GLO","electricity production, oil, aluminium industry",0.000934394201092958
+2011,"CA-QC","electricity production, oil, aluminium industry",0
+2011,"CN","electricity production, oil, aluminium industry",0
+2011,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2011,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.000179920538712027
+2011,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2011,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.000363202407513101
+2011,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0
+2011,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.00366921904204098
+2011,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.00366921904204098
+2011,"UN-OCEANIA","electricity production, oil, aluminium industry",0.000231033586507639
+2011,"GLO","electricity production, oil, aluminium industry",0.00121358209910735
+2012,"CA-QC","electricity production, oil, aluminium industry",0
+2012,"CN","electricity production, oil, aluminium industry",0
+2012,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2012,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",3.4613075265779e-05
+2012,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2012,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0
+2012,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",8.09148775488186e-05
+2012,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.00260195712427173
+2012,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.00260195712427173
+2012,"UN-OCEANIA","electricity production, oil, aluminium industry",0.000475285171102662
+2012,"GLO","electricity production, oil, aluminium industry",0.000860843314831045
+2013,"CA-QC","electricity production, oil, aluminium industry",0
+2013,"CN","electricity production, oil, aluminium industry",0
+2013,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2013,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",7.46779541703355e-05
+2013,"IAI Area, South America","electricity production, oil, aluminium industry",0.0112810777262604
+2013,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0
+2013,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0.000154487872701993
+2013,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.00134227025529114
+2013,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.00134227025529114
+2013,"UN-OCEANIA","electricity production, oil, aluminium industry",0.000697167755991285
+2013,"GLO","electricity production, oil, aluminium industry",0.000814964936228677
+2014,"CA-QC","electricity production, oil, aluminium industry",0
+2014,"CN","electricity production, oil, aluminium industry",0
+2014,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2014,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.0129524860070965
+2014,"IAI Area, South America","electricity production, oil, aluminium industry",0.0149912234925755
+2014,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0
+2014,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0.000485537906637997
+2014,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.00295730011740923
+2014,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.00295730011740923
+2014,"UN-OCEANIA","electricity production, oil, aluminium industry",0
+2014,"GLO","electricity production, oil, aluminium industry",0.00158537184399253
+2015,"CA-QC","electricity production, oil, aluminium industry",0
+2015,"CN","electricity production, oil, aluminium industry",0
+2015,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2015,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",4.19237190896982e-05
+2015,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2015,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0
+2015,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0.000110628210193599
+2015,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.0020503474199795
+2015,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.0020503474199795
+2015,"UN-OCEANIA","electricity production, oil, aluminium industry",0
+2015,"GLO","electricity production, oil, aluminium industry",0.000563048202204686
+2016,"CA-QC","electricity production, oil, aluminium industry",0
+2016,"CN","electricity production, oil, aluminium industry",0
+2016,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2016,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",5.32126849086293e-05
+2016,"IAI Area, South America","electricity production, oil, aluminium industry",0.0125847496981518
+2016,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0
+2016,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0.000105065666041276
+2016,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.00200803212851406
+2016,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.00200803212851406
+2016,"UN-OCEANIA","electricity production, oil, aluminium industry",0
+2016,"GLO","electricity production, oil, aluminium industry",0.000800898049047127
+2017,"CA-QC","electricity production, oil, aluminium industry",0
+2017,"CN","electricity production, oil, aluminium industry",0
+2017,"IAI Area, Africa","electricity production, oil, aluminium industry",0
+2017,"IAI Area, North America, without Quebec","electricity production, oil, aluminium industry",0.000123551658638041
+2017,"IAI Area, South America","electricity production, oil, aluminium industry",0
+2017,"IAI Area, Asia, without China and GCC","electricity production, oil, aluminium industry",0.000134449907805778
+2017,"IAI Area, Gulf Cooperation Council","electricity production, oil, aluminium industry",0.00025886969317129
+2017,"IAI Area, EU27 & EFTA","electricity production, oil, aluminium industry",0.00191255379057536
+2017,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, oil, aluminium industry",0.00191255379057536
+2017,"UN-OCEANIA","electricity production, oil, aluminium industry",0
+2017,"GLO","electricity production, oil, aluminium industry",0.000422041974383233
+2000,"CA-QC","electricity production, nuclear, aluminium industry",0
+2000,"CN","electricity production, nuclear, aluminium industry",0
+2000,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2000,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0344969815028117
+2000,"IAI Area, South America","electricity production, nuclear, aluminium industry",0.00297950461973696
+2000,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2000,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2000,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.223402727925341
+2000,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.223402727925341
+2000,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2000,"GLO","electricity production, nuclear, aluminium industry",0.0821425729206401
+2001,"CA-QC","electricity production, nuclear, aluminium industry",0
+2001,"CN","electricity production, nuclear, aluminium industry",0
+2001,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0.00907272815960197
+2001,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0197994139497421
+2001,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2001,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2001,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2001,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.182423808486131
+2001,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.182423808486131
+2001,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2001,"GLO","electricity production, nuclear, aluminium industry",0.0662271656264114
+2002,"CA-QC","electricity production, nuclear, aluminium industry",0
+2002,"CN","electricity production, nuclear, aluminium industry",0
+2002,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0.00939644029034503
+2002,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0172413406502109
+2002,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2002,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2002,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2002,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.192314696776543
+2002,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.192314696776543
+2002,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2002,"GLO","electricity production, nuclear, aluminium industry",0.0669392487562697
+2003,"CA-QC","electricity production, nuclear, aluminium industry",0
+2003,"CN","electricity production, nuclear, aluminium industry",0
+2003,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0.0135593220338983
+2003,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.010946915745071
+2003,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2003,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2003,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2003,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.178705821589316
+2003,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.178705821589316
+2003,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2003,"GLO","electricity production, nuclear, aluminium industry",0.0597384988357497
+2004,"CA-QC","electricity production, nuclear, aluminium industry",0
+2004,"CN","electricity production, nuclear, aluminium industry",0
+2004,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0.0152513421181064
+2004,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0119578134284017
+2004,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2004,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2004,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2004,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.152337141665315
+2004,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.152337141665315
+2004,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2004,"GLO","electricity production, nuclear, aluminium industry",0.0568954478183746
+2005,"CA-QC","electricity production, nuclear, aluminium industry",0
+2005,"CN","electricity production, nuclear, aluminium industry",0
+2005,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0.0383050710919563
+2005,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0128352240534386
+2005,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2005,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2005,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2005,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.124390804415529
+2005,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.124390804415529
+2005,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2005,"GLO","electricity production, nuclear, aluminium industry",0.0566882182543041
+2006,"CA-QC","electricity production, nuclear, aluminium industry",0
+2006,"CN","electricity production, nuclear, aluminium industry",0
+2006,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0.0148148148148148
+2006,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0130576365755116
+2006,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2006,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2006,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2006,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.105685747214752
+2006,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.105685747214752
+2006,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2006,"GLO","electricity production, nuclear, aluminium industry",0.0456283678081001
+2007,"CA-QC","electricity production, nuclear, aluminium industry",0
+2007,"CN","electricity production, nuclear, aluminium industry",0
+2007,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2007,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0124064761975098
+2007,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2007,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2007,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2007,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0987973628921249
+2007,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0987973628921249
+2007,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2007,"GLO","electricity production, nuclear, aluminium industry",0.0402780178016204
+2008,"CA-QC","electricity production, nuclear, aluminium industry",0
+2008,"CN","electricity production, nuclear, aluminium industry",0
+2008,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2008,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0118575327408059
+2008,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2008,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2008,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2008,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.101019246333868
+2008,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.101019246333868
+2008,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2008,"GLO","electricity production, nuclear, aluminium industry",0.0411232680888498
+2009,"CA-QC","electricity production, nuclear, aluminium industry",0
+2009,"CN","electricity production, nuclear, aluminium industry",0
+2009,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2009,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0165948709022777
+2009,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2009,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2009,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2009,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0891608247931032
+2009,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0891608247931032
+2009,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2009,"GLO","electricity production, nuclear, aluminium industry",0.0344801185014813
+2010,"CA-QC","electricity production, nuclear, aluminium industry",0
+2010,"CN","electricity production, nuclear, aluminium industry",0
+2010,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2010,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0129590926113382
+2010,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2010,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2010,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2010,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0840331504757707
+2010,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0840331504757707
+2010,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2010,"GLO","electricity production, nuclear, aluminium industry",0.0322999360677652
+2011,"CA-QC","electricity production, nuclear, aluminium industry",0
+2011,"CN","electricity production, nuclear, aluminium industry",0
+2011,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2011,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0299027935339389
+2011,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2011,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2011,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2011,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0463389634886866
+2011,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0463389634886866
+2011,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2011,"GLO","electricity production, nuclear, aluminium industry",0.016131456549029
+2012,"CA-QC","electricity production, nuclear, aluminium industry",0
+2012,"CN","electricity production, nuclear, aluminium industry",0
+2012,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2012,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0139836824073747
+2012,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2012,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2012,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2012,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0772991361825572
+2012,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0772991361825572
+2012,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2012,"GLO","electricity production, nuclear, aluminium industry",0.0253656636478722
+2013,"CA-QC","electricity production, nuclear, aluminium industry",0
+2013,"CN","electricity production, nuclear, aluminium industry",0
+2013,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2013,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0137407435673417
+2013,"IAI Area, South America","electricity production, nuclear, aluminium industry",0.00368734255777445
+2013,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2013,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2013,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0684817624441442
+2013,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0684817624441442
+2013,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2013,"GLO","electricity production, nuclear, aluminium industry",0.0206402861376112
+2014,"CA-QC","electricity production, nuclear, aluminium industry",0
+2014,"CN","electricity production, nuclear, aluminium industry",0
+2014,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2014,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.000327319140973557
+2014,"IAI Area, South America","electricity production, nuclear, aluminium industry",0.00488637980928887
+2014,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2014,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2014,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0697393162015908
+2014,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0697393162015908
+2014,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2014,"GLO","electricity production, nuclear, aluminium industry",0.0195377738481187
+2015,"CA-QC","electricity production, nuclear, aluminium industry",0
+2015,"CN","electricity production, nuclear, aluminium industry",0
+2015,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2015,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.0271665699701244
+2015,"IAI Area, South America","electricity production, nuclear, aluminium industry",0.00468544096832447
+2015,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2015,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2015,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0921598620083641
+2015,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.0921598620083641
+2015,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2015,"GLO","electricity production, nuclear, aluminium industry",0.0257308629593462
+2016,"CA-QC","electricity production, nuclear, aluminium industry",0
+2016,"CN","electricity production, nuclear, aluminium industry",0
+2016,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2016,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.00413285186123688
+2016,"IAI Area, South America","electricity production, nuclear, aluminium industry",0.00371505526144701
+2016,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2016,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2016,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.101035721834707
+2016,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.101035721834707
+2016,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2016,"GLO","electricity production, nuclear, aluminium industry",0.0252733866033772
+2017,"CA-QC","electricity production, nuclear, aluminium industry",0
+2017,"CN","electricity production, nuclear, aluminium industry",0
+2017,"IAI Area, Africa","electricity production, nuclear, aluminium industry",0
+2017,"IAI Area, North America, without Quebec","electricity production, nuclear, aluminium industry",0.00317704265069249
+2017,"IAI Area, South America","electricity production, nuclear, aluminium industry",0
+2017,"IAI Area, Asia, without China and GCC","electricity production, nuclear, aluminium industry",0
+2017,"IAI Area, Gulf Cooperation Council","electricity production, nuclear, aluminium industry",0
+2017,"IAI Area, EU27 & EFTA","electricity production, nuclear, aluminium industry",0.120034000956277
+2017,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, nuclear, aluminium industry",0.120034000956277
+2017,"UN-OCEANIA","electricity production, nuclear, aluminium industry",0
+2017,"GLO","electricity production, nuclear, aluminium industry",0.0244569565511546
+2000,"CA-QC","electricity production, natural gas, aluminium industry",0
+2000,"CN","electricity production, natural gas, aluminium industry",0
+2000,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0
+2000,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.0110896649190309
+2000,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.063773437264875
+2000,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2000,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2000,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0780729042035575
+2000,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0780729042035575
+2000,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2000,"GLO","electricity production, natural gas, aluminium industry",0.0764949794595544
+2001,"CA-QC","electricity production, natural gas, aluminium industry",0
+2001,"CN","electricity production, natural gas, aluminium industry",0
+2001,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0.00170723379347349
+2001,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.00872281873310318
+2001,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.0400298062593145
+2001,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2001,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2001,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.089017215079538
+2001,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.089017215079538
+2001,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2001,"GLO","electricity production, natural gas, aluminium industry",0.0794230800624697
+2002,"CA-QC","electricity production, natural gas, aluminium industry",0
+2002,"CN","electricity production, natural gas, aluminium industry",0
+2002,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0.00188923138112757
+2002,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.00892582679679058
+2002,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.0400298062593145
+2002,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2002,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2002,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0940781885509622
+2002,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0940781885509622
+2002,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2002,"GLO","electricity production, natural gas, aluminium industry",0.0778059270004393
+2003,"CA-QC","electricity production, natural gas, aluminium industry",0
+2003,"CN","electricity production, natural gas, aluminium industry",0
+2003,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0.00276029055690073
+2003,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.007965947841951
+2003,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.040814560558424
+2003,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2003,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2003,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.09124179148528
+2003,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.09124179148528
+2003,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2003,"GLO","electricity production, natural gas, aluminium industry",0.074574306001399
+2004,"CA-QC","electricity production, natural gas, aluminium industry",0
+2004,"CN","electricity production, natural gas, aluminium industry",0
+2004,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0.00309093866926956
+2004,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.0084586376094915
+2004,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.0429882115923879
+2004,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2004,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2004,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0767768997242242
+2004,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0767768997242242
+2004,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2004,"GLO","electricity production, natural gas, aluminium industry",0.0713150630293997
+2005,"CA-QC","electricity production, natural gas, aluminium industry",0
+2005,"CN","electricity production, natural gas, aluminium industry",0
+2005,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0.00306118338905224
+2005,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.00632263679587992
+2005,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.0408009940185512
+2005,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2005,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2005,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0531258172135889
+2005,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0531258172135889
+2005,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2005,"GLO","electricity production, natural gas, aluminium industry",0.0633955237415813
+2006,"CA-QC","electricity production, natural gas, aluminium industry",0
+2006,"CN","electricity production, natural gas, aluminium industry",0
+2006,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0.00300696736340301
+2006,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.00856533041421171
+2006,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.0370732222544955
+2006,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2006,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2006,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0555973876296581
+2006,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0555973876296581
+2006,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2006,"GLO","electricity production, natural gas, aluminium industry",0.061743953235349
+2007,"CA-QC","electricity production, natural gas, aluminium industry",0
+2007,"CN","electricity production, natural gas, aluminium industry",0
+2007,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0.000226159065209197
+2007,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.0075622989403476
+2007,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.0627361862935349
+2007,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2007,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2007,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.054502644352677
+2007,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.054502644352677
+2007,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2007,"GLO","electricity production, natural gas, aluminium industry",0.0602333176974944
+2008,"CA-QC","electricity production, natural gas, aluminium industry",0
+2008,"CN","electricity production, natural gas, aluminium industry",0
+2008,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0
+2008,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.00764836527437262
+2008,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.103190668980143
+2008,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2008,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2008,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0661344088234084
+2008,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0661344088234084
+2008,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2008,"GLO","electricity production, natural gas, aluminium industry",0.0687541235979767
+2009,"CA-QC","electricity production, natural gas, aluminium industry",0
+2009,"CN","electricity production, natural gas, aluminium industry",0
+2009,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0
+2009,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.013536737511072
+2009,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.186301650774121
+2009,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2009,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2009,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.044280442804428
+2009,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.044280442804428
+2009,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2009,"GLO","electricity production, natural gas, aluminium industry",0.0754259428242853
+2010,"CA-QC","electricity production, natural gas, aluminium industry",0
+2010,"CN","electricity production, natural gas, aluminium industry",0
+2010,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0
+2010,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.0127971039536964
+2010,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.160956932289268
+2010,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2010,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2010,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0394704738818011
+2010,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0394704738818011
+2010,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2010,"GLO","electricity production, natural gas, aluminium industry",0.0468642654573688
+2011,"CA-QC","electricity production, natural gas, aluminium industry",0
+2011,"CN","electricity production, natural gas, aluminium industry",0
+2011,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0
+2011,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.01615686437634
+2011,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.1447128666314
+2011,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2011,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",1
+2011,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0736341633577661
+2011,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0736341633577661
+2011,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2011,"GLO","electricity production, natural gas, aluminium industry",0.0706076539175599
+2012,"CA-QC","electricity production, natural gas, aluminium industry",0
+2012,"CN","electricity production, natural gas, aluminium industry",0
+2012,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0
+2012,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.0117684455903648
+2012,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.147425014148274
+2012,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2012,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",0.999919085122451
+2012,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0337284752692864
+2012,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0337284752692864
+2012,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2012,"GLO","electricity production, natural gas, aluminium industry",0.0655045931119551
+2013,"CA-QC","electricity production, natural gas, aluminium industry",0
+2013,"CN","electricity production, natural gas, aluminium industry",0
+2013,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0
+2013,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.103951712205107
+2013,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.204556241101092
+2013,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2013,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",0.999845512127298
+2013,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0313831445495168
+2013,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0313831445495168
+2013,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2013,"GLO","electricity production, natural gas, aluminium industry",0.0690337405623131
+2014,"CA-QC","electricity production, natural gas, aluminium industry",0
+2014,"CN","electricity production, natural gas, aluminium industry",0
+2014,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0
+2014,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.0270272090689595
+2014,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.271360121447887
+2014,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2014,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",0.999514462093362
+2014,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0248060099400595
+2014,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0248060099400595
+2014,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2014,"GLO","electricity production, natural gas, aluminium industry",0.0854185086943708
+2015,"CA-QC","electricity production, natural gas, aluminium industry",0
+2015,"CN","electricity production, natural gas, aluminium industry",0
+2015,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0
+2015,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.0243996045102043
+2015,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.271023476011518
+2015,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2015,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",0.999889371789806
+2015,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0248563943176086
+2015,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0248563943176086
+2015,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0
+2015,"GLO","electricity production, natural gas, aluminium industry",0.0830419119005516
+2016,"CA-QC","electricity production, natural gas, aluminium industry",0
+2016,"CN","electricity production, natural gas, aluminium industry",0
+2016,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0
+2016,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.0277415463990321
+2016,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.246122411070865
+2016,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2016,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",0.999894934333959
+2016,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0273462270133164
+2016,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0273462270133164
+2016,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0.00568851890391953
+2016,"GLO","electricity production, natural gas, aluminium industry",0.0867795313496708
+2017,"CA-QC","electricity production, natural gas, aluminium industry",0
+2017,"CN","electricity production, natural gas, aluminium industry",0
+2017,"IAI Area, Africa","electricity production, natural gas, aluminium industry",0
+2017,"IAI Area, North America, without Quebec","electricity production, natural gas, aluminium industry",0.0276049705871281
+2017,"IAI Area, South America","electricity production, natural gas, aluminium industry",0.172223393045311
+2017,"IAI Area, Asia, without China and GCC","electricity production, natural gas, aluminium industry",0
+2017,"IAI Area, Gulf Cooperation Council","electricity production, natural gas, aluminium industry",0.999741130306829
+2017,"IAI Area, EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0229187695903947
+2017,"IAI Area, Russia & RER w/o EU27 & EFTA","electricity production, natural gas, aluminium industry",0.0229187695903947
+2017,"UN-OCEANIA","electricity production, natural gas, aluminium industry",0.00465844438504716
+2017,"GLO","electricity production, natural gas, aluminium industry",0.0896307615978316

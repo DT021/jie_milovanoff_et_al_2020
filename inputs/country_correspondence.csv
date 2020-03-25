@@ -1,0 +1,295 @@
+ctyCode,cty Name English,Cty Abbreviation,ISO2-digit Alpha,ISO3-digit Alpha,ecoinvent_country,aluminium_region_ei35,aluminium_region_ei34,alumina_region,graph_region
+4,Afghanistan,Afghanistan,AF,AFG,AF,RoW,RoW,Africa & Asia,Rest of Asia
+472,"Africa CAMEU region, not elsewhere specified","Africa CAMEU region, nes",,,,RoW,RoW,RoW,Africa
+8,Albania,Albania,AL,ALB,AL,RoW,RoW,Europe,Europe
+12,Algeria,Algeria,DZ,DZA,DZ,RoW,RoW,Africa & Asia,Africa
+16,American Samoa,American Samoa,AS,ASM,AS,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+20,Andorra,Andorra,AD,AND,AD,RoW,RoW,Europe,Europe
+24,Angola,Angola,AO,AGO,AO,RoW,RoW,Africa & Asia,Africa
+660,Anguilla,Anguilla,AI,AIA,AI,RoW,RoW,South America,South America
+10,Antarctica,Antarctica,AQ,ATA,AQ,RoW,RoW,RoW,Rest of Asia
+28,Antigua and Barbuda,Antigua and Barbuda,AG,ATA,AG,RoW,RoW,South America,South America
+899,"Areas, not elsewhere specified","Areas, nes",,,,RoW,RoW,RoW,Rest of Asia
+32,Argentina,Argentina,AR,ARG,AR,"IAI Area, South America","IAI Area, South America",South America,South America
+51,Armenia,Armenia,AM,ARM,AM,RoW,RoW,Africa & Asia,Europe
+533,Aruba,Aruba,AW,ABW,AW,RoW,RoW,South America,South America
+36,Australia,Australia,AU,AUS,AU,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+40,Austria,Austria,AT,AUT,AT,RoW,RoW,Europe,Europe
+31,Azerbaijan,Azerbaijan,AZ,AZE,AZ,RoW,"IAI Area, Asia, without China and GCC",Africa & Asia,Rest of Asia
+44,Bahamas,Bahamas,BS,BHS,BS,RoW,RoW,South America,South America
+48,Bahrain,Bahrain,BH,BHR,BH,RoW,"IAI Area, Gulf Cooperation Council",Africa & Asia,GCC
+50,Bangladesh,Bangladesh,BD,BGD,BD,RoW,RoW,Africa & Asia,Rest of Asia
+52,Barbados,Barbados,BB,BRB,BB,RoW,RoW,South America,South America
+112,Belarus,Belarus,BY,BLR,BY,RoW,RoW,Europe,Europe
+56,Belgium,Belgium,BE,BEL,BE,RoW,RoW,Europe,Europe
+58,Belgium-Luxembourg,Belgium-Luxembourg,BE,BEL,BE,RoW,RoW,Europe,Europe
+84,Belize,Belize,BZ,BLZ,BZ,RoW,RoW,South America,South America
+204,Benin,Benin,BJ,BEN,BJ,RoW,RoW,Africa & Asia,Africa
+60,Bermuda,Bermuda,BM,BMU,BM,RNA,RoW,North America,North America
+64,Bhutan,Bhutan,BT,BTN,BT,RoW,RoW,Africa & Asia,Rest of Asia
+68,Plurinational State of Bolivia,Bolivia (Plurinational State of),BO,BOL,BO,RoW,RoW,South America,South America
+535,"Bonaire, Saint Eustatius and Saba",Bonaire,BQ,BES,BQ,RoW,RoW,South America,South America
+70,Bosnia Herzegovina,Bosnia Herzegovina,BA,BIH,BA,RoW,"IAI Area, Russia & RER w/o EU27 & EFTA",Europe,Europe
+72,Botswana,Botswana,BW,BWA,BW,RoW,RoW,Africa & Asia,Rest of Asia
+74,Ile Bouvet,Bouvet Island,,,,RoW,RoW,RoW,Rest of Asia
+80,British Antarctic Territories,Br. Antarctic Terr.,,,,RoW,RoW,RoW,Rest of Asia
+86,British Indian Ocean Territories,Br. Indian Ocean Terr.,IO,IOT,IO,RoW,RoW,RoW,Rest of Asia
+92,British Virgin Islands,Br. Virgin Isds,VG,VGB,VG,RoW,RoW,South America,South America
+76,Brazil,Brazil,BR,BRA,BR,"IAI Area, South America","IAI Area, South America",South America,South America
+96,Brunei Darussalam,Brunei Darussalam,BN,BRN,BN,RoW,RoW,RoW,Rest of Asia
+100,Bulgaria,Bulgaria,BG,BGR,BG,RoW,RoW,Europe,Europe
+837,Bunkers,Bunkers,,,,RoW,RoW,RoW,Rest of Asia
+854,Burkina Faso,Burkina Faso,BF,BFA,BF,RoW,RoW,Africa & Asia,Africa
+108,Burundi,Burundi,BI,BDI,BI,RoW,RoW,Africa & Asia,Africa
+132,Cabo Verde,Cabo Verde,CV,CPV,CV,RoW,RoW,Africa & Asia,Africa
+471,"CACM, not elsewhere specified","CACM, nes",,,,RoW,RoW,RoW,Rest of Asia
+116,Cambodia,Cambodia,KH,KHM,KH,RoW,RoW,Africa & Asia,Rest of Asia
+120,Cameroon,Cameroon,CM,CMR,CM,RoW,"IAI Area, Africa",Africa & Asia,Africa
+124,Canada,Canada,CA,CAN,CA,RNA,CA-QC,North America,North America
+129,"Caribbean, not elsewhere specified","Caribbean, nes",,,,RoW,RoW,RoW,South America
+136,Cayman Islands,Cayman Isds,KY,CYM,KY,RoW,RoW,South America,South America
+140,Central African Republic,Central African Rep.,CF,CAF,CF,RoW,RoW,Africa & Asia,Africa
+148,Chad,Chad,TD,TCD,TD,RoW,RoW,Africa & Asia,Africa
+152,Chile,Chile,CL,CHL,CL,RoW,RoW,South America,South America
+156,China,China,CN,CHN,CN,CN,CN,China,China
+344,"China, Hong Kong Special Administrative Region","China, Hong Kong SAR",HK,HKG,HK,RoW,RoW,RoW,China
+446,"China, Macao Special Administrative Region","China, Macao SAR",MO,MAC,MO,RoW,RoW,RoW,China
+162,Christmas Islands,Christmas Isds,CX,CXR,CX,RoW,RoW,RoW,Rest of Asia
+166,Cocos Islands,Cocos Isds,CC,CCK,CC,RoW,RoW,RoW,Rest of Asia
+170,Colombia,Colombia,CO,COL,CO,RoW,RoW,South America,South America
+174,Comoros,Comoros,KM,COM,KM,RoW,RoW,Africa & Asia,Rest of Asia
+178,Congo,Congo,CG,COG,CG,RoW,RoW,Africa & Asia,Africa
+184,Cook Islands,Cook Isds,CK,COK,CK,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+188,Costa Rica,Costa Rica,CR,CRI,CR,RoW,RoW,South America,South America
+384,Côte d'Ivoire,Côte d'Ivoire,CI,CIV,CI,RoW,RoW,Africa & Asia,Africa
+191,Croatia,Croatia,HR,HRV,HR,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+192,Cuba,Cuba,CU,CUB,CU,RoW,RoW,South America,South America
+531,Curaçao,Curaçao,CW,CUW,CW,RoW,RoW,South America,South America
+196,Cyprus,Cyprus,CY,CYP,CY,RoW,RoW,Africa & Asia,Europe
+203,Czechia,Czechia,CZ,CZE,CZ,RoW,RoW,RoW,Europe
+200,Czechoslovakia,Czechoslovakia,CS,CSK,CZ,RoW,RoW,RoW,Europe
+408,Democratic People's Republic of Korea,Dem. People's Rep. of Korea,KP,PRK,KP,RoW,"IAI Area, Asia, without China and GCC",Africa & Asia,Africa
+180,Democratic Republic of the Congo,Dem. Rep. of the Congo,CD,COD,CD,RoW,RoW,Africa & Asia,Africa
+208,Denmark,Denmark,DK,DNK,DK,RoW,RoW,Europe,Europe
+262,Djibouti,Djibouti,DJ,DJI,DJ,RoW,RoW,Africa & Asia,Africa
+212,Dominica,Dominica,DM,DMA,DM,RoW,RoW,South America,South America
+214,Dominican Republic,Dominican Rep.,DO,DOM,DO,RoW,RoW,South America,South America
+588,East and West Pakistan,East and West Pakistan,PK,PAK,PK,RoW,RoW,Africa & Asia,Rest of Asia
+221,"Eastern Europe, not elsewhere specified","Eastern Europe, nes",,,,RoW,RoW,RoW,Europe
+218,Ecuador,Ecuador,EC,ECU,EC,RoW,RoW,South America,South America
+818,Egypt,Egypt,EG,EGY,EG,RoW,"IAI Area, Africa",Africa & Asia,Africa
+222,El Salvador,El Salvador,SV,SLV,SV,RoW,RoW,South America,South America
+226,Equatorial Guinea,Equatorial Guinea,GQ,GNQ,GQ,RoW,RoW,Africa & Asia,Africa
+232,Eritrea,Eritrea,ER,ERI,ER,RoW,RoW,Africa & Asia,Africa
+233,Estonia,Estonia,EE,EST,EE,RoW,RoW,Europe,Europe
+231,Ethiopia,Ethiopia,ET,ETH,ET,RoW,RoW,Africa & Asia,Africa
+97,EU-28,EU-28,EU,EU2,,RoW,RoW,RoW,Europe
+697,"Europe EFTA, not elsewhere specified","Europe EFTA, nes",,,,RoW,RoW,RoW,Europe
+492,"Europe EU, not elsewhere specified","Europe EU, nes",,,,RoW,RoW,RoW,Europe
+234,Faeroe Islands,Faeroe Isds,FO,FRO,FO,RoW,RoW,RoW,Europe
+238,Falkland Islands (Malvinas),Falkland Isds (Malvinas),FK,FLK,FK,RoW,RoW,RoW,Rest of Asia
+242,Fiji,Fiji,FJ,FJI,FJ,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+246,Finland,Finland,FI,FIN,FI,RoW,RoW,Europe,Europe
+886,Former Arab Republic of Yemen,Fmr Arab Rep. of Yemen,YE,YEM,YE,RoW,RoW,Africa & Asia,GCC
+278,Former Democratic Republic of Germany,Fmr Dem. Rep. of Germany,DD,DDR,,RoW,RoW,RoW,Europe
+866,Former Democratic Republic of Vietnam,Fmr Dem. Rep. of Vietnam,VD,VDR,,RoW,RoW,RoW,Rest of Asia
+720,Former Democratic Yemen,Fmr Dem. Yemen,YD,YMD,,RoW,RoW,RoW,Rest of Asia
+230,Former Ethiopia,Fmr Ethiopia,ET,ETH,ET,RoW,RoW,Africa & Asia,Africa
+280,Former Federal Republic of Germany,Fmr Fed. Rep. of Germany,DE,DEU,DE,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+582,Former Pacific Islands,Fmr Pacific Isds,PC,PCI,,RoW,RoW,RoW,Rest of Asia
+590,"Former Panama, excluding Canal Zone","Fmr Panama, excl.Canal Zone",PA,PAN,PA,RoW,RoW,South America,South America
+592,Former Panama-Canal-Zone,Fmr Panama-Canal-Zone,PZ,PCZ,,RoW,RoW,RoW,Rest of Asia
+868,Former Republic of Vietnam,Fmr Rep. of Vietnam,VN,VNM,VN,RoW,RoW,Africa & Asia,Rest of Asia
+717,Former Rhodesia Nyas,Fmr Rhodesia Nyas,,,,RoW,RoW,RoW,Rest of Asia
+736,Former Sudan,Fmr Sudan,SD,SDN,SD,RoW,RoW,Africa & Asia,Rest of Asia
+835,Former Tanganyika,Fmr Tanganyika,,,,RoW,RoW,RoW,Rest of Asia
+810,Former USSR,Fmr USSR,SU,SUN,,RoW,RoW,RoW,Rest of Asia
+890,Former Yugoslavia,Fmr Yugoslavia,YU,YUG,,RoW,RoW,RoW,Rest of Asia
+836,Former Zanzibar and Pemba Island,Fmr Zanzibar and Pemba Isd,,,,RoW,RoW,RoW,Rest of Asia
+260,French South Antarctic Territories,Fr. South Antarctic Terr.,FQ,ATF,,RoW,RoW,RoW,Rest of Asia
+251,France,France,FR,FRA,FR,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+838,Free Zones,Free Zones,,,,RoW,RoW,RoW,Rest of Asia
+254,French Guiana,French Guiana,GF,GUF,GF,RoW,RoW,South America,South America
+258,French Polynesia,French Polynesia,PF,PYF,PF,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+583,Federated State of Micronesia,FS Micronesia,FM,FSM,FM,RoW,RoW,RoW,Rest of Asia
+266,Gabon,Gabon,GA,GAB,GA,RoW,RoW,Africa & Asia,Africa
+270,Gambia,Gambia,GM,GMB,GM,RoW,RoW,Africa & Asia,Africa
+268,Georgia,Georgia,GE,GEO,GE,RoW,RoW,Africa & Asia,Europe
+276,Germany,Germany,DE,DEU,DE,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+288,Ghana,Ghana,GH,GHA,GH,RoW,"IAI Area, Africa",Africa & Asia,Africa
+292,Gibraltar,Gibraltar,GI,GIB,GI,RoW,RoW,Europe,Europe
+300,Greece,Greece,GR,GRC,GR,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+304,Greenland,Greenland,GL,GRL,GL,RNA,RoW,North America,North America
+308,Grenada,Grenada,GD,GRD,GD,RoW,RoW,South America,South America
+312,Guadeloupe,Guadeloupe,GP,GLP,GP,RoW,RoW,South America,South America
+316,Guam,Guam,GU,GUM,GU,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+320,Guatemala,Guatemala,GT,GTM,GT,RoW,RoW,South America,South America
+324,Guinea,Guinea,GN,GIN,GN,RoW,RoW,Africa & Asia,Africa
+624,Guinea-Bissau,Guinea-Bissau,GW,GNB,GW,RoW,RoW,Africa & Asia,Africa
+328,Guyana,Guyana,GY,GUY,GY,RoW,RoW,South America,South America
+332,Haiti,Haiti,HT,HTI,HT,RoW,RoW,South America,South America
+334,Heard Island and McDonald Islands,Heard Island and McDonald Islands,HM,HMD,HM,RoW,RoW,RoW,Rest of Asia
+336,Holy See (Vatican City State),Holy See (Vatican City State),VA,VAT,VA,RoW,RoW,Europe,Europe
+340,Honduras,Honduras,HN,HND,HN,RoW,RoW,South America,South America
+348,Hungary,Hungary,HU,HUN,HU,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+352,Iceland,Iceland,IS,ISL,IS,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+699,India,India,IN,IND,IN,RoW,"IAI Area, Asia, without China and GCC",Africa & Asia,Rest of Asia
+356,"India, excluding Sikkim","India, excl. Sikkim",IN,IND,IN,RoW,"IAI Area, Asia, without China and GCC",Africa & Asia,Rest of Asia
+360,Indonesia,Indonesia,ID,IDN,ID,RoW,"IAI Area, Asia, without China and GCC",Africa & Asia,Rest of Asia
+364,Iran,Iran,IR,IRN,IR,RoW,"IAI Area, Asia, without China and GCC",Africa & Asia,Rest of Asia
+368,Iraq,Iraq,IQ,IRQ,IQ,RoW,RoW,Africa & Asia,Rest of Asia
+372,Ireland,Ireland,IE,IRL,IE,RoW,RoW,Europe,Europe
+376,Israel,Israel,IL,ISR,IL,RoW,RoW,Africa & Asia,Rest of Asia
+381,Italy,Italy,IT,ITA,IT,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+388,Jamaica,Jamaica,JM,JAM,JM,RoW,RoW,South America,South America
+392,Japan,Japan,JP,JPN,JP,RoW,"IAI Area, Asia, without China and GCC",Africa & Asia,Rest of Asia
+400,Jordan,Jordan,JO,JOR,JO,RoW,RoW,Africa & Asia,Rest of Asia
+398,Kazakhstan,Kazakhstan,KZ,KAZ,KZ,RoW,"IAI Area, Asia, without China and GCC",Africa & Asia,Rest of Asia
+404,Kenya,Kenya,KE,KEN,KE,RoW,RoW,Africa & Asia,Africa
+296,Kiribati,Kiribati,KI,KIR,KI,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+414,Kuwait,Kuwait,KW,KWT,KW,RoW,RoW,Africa & Asia,GCC
+417,Kyrgyzstan,Kyrgyzstan,KG,KGZ,KG,RoW,RoW,Africa & Asia,Rest of Asia
+473,"LAIA, not elsewhere specified","LAIA, nes",N/,,,RoW,RoW,RoW,Rest of Asia
+418,Lao People's Dem. Rep.,Lao People's Dem. Rep.,LA,LAO,LA,RoW,RoW,Africa & Asia,Africa
+428,Latvia,Latvia,LV,LVA,LV,RoW,RoW,Europe,Europe
+422,Lebanon,Lebanon,LB,LBN,LB,RoW,RoW,Africa & Asia,Rest of Asia
+426,Lesotho,Lesotho,LS,LSO,LS,RoW,RoW,Africa & Asia,Africa
+430,Liberia,Liberia,LR,LBR,LR,RoW,RoW,Africa & Asia,Africa
+434,Libya,Libya,LY,LBY,LY,RoW,RoW,Africa & Asia,Africa
+440,Lithuania,Lithuania,LT,LTU,LT,RoW,RoW,Europe,Europe
+442,Luxembourg,Luxembourg,LU,LUX,LU,RoW,RoW,Europe,Europe
+450,Madagascar,Madagascar,MG,MDG,MG,RoW,RoW,Africa & Asia,Africa
+454,Malawi,Malawi,MW,MWI,MW,RoW,RoW,Africa & Asia,Africa
+458,Malaysia,Malaysia,MY,MYS,MY,"IAI Area, Asia, without China and GCC","IAI Area, Asia, without China and GCC",Africa & Asia,Rest of Asia
+462,Maldives,Maldives,MV,MDV,MV,RoW,RoW,Africa & Asia,Europe
+466,Mali,Mali,ML,MLI,ML,RoW,RoW,Africa & Asia,Africa
+470,Malta,Malta,MT,MLT,MT,RoW,RoW,Europe,Europe
+584,Marshall Islands,Marshall Isds,MH,MHL,MH,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+474,Martinique,Martinique,MQ,MTQ,MQ,RoW,RoW,South America,South America
+478,Mauritania,Mauritania,MR,MRT,MR,RoW,RoW,Africa & Asia,Africa
+480,Mauritius,Mauritius,MU,MUS,MU,RoW,RoW,Africa & Asia,Africa
+175,Mayotte,Mayotte,YT,MYT,YT,RoW,RoW,Africa & Asia,Africa
+484,Mexico,Mexico,MX,MEX,MX,"IAI Area, North America, without Quebec","IAI Area, North America, without Quebec",South America,South America
+496,Mongolia,Mongolia,MN,MNG,MN,RoW,RoW,Africa & Asia,Rest of Asia
+499,Montenegro,Montenegro,ME,MNE,ME,RoW,"IAI Area, Russia & RER w/o EU27 & EFTA",Europe,Europe
+500,Montserrat,Montserrat,MS,MSR,MS,RoW,RoW,South America,South America
+504,Morocco,Morocco,MA,MAR,MA,RoW,RoW,Africa & Asia,Africa
+508,Mozambique,Mozambique,MZ,MOZ,MZ,RoW,"IAI Area, Africa",Africa & Asia,Africa
+104,Myanmar,Myanmar,MM,MMR,MM,RoW,RoW,Africa & Asia,Rest of Asia
+580,Northern Mariana Islands,N. Mariana Isds,MP,MNP,MP,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+516,Namibia,Namibia,,NAM,nan,RoW,RoW,Africa & Asia,Africa
+520,Nauru,Nauru,NR,NRU,NR,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+524,Nepal,Nepal,NP,NPL,NP,RoW,RoW,Africa & Asia,Rest of Asia
+530,Netherlands Antilles,Neth. Antilles,AN,ANT,,RoW,RoW,RoW,Rest of Asia
+532,Netherlands Antilles and Aruba,Neth. Antilles and Aruba,AN,ANT,,RoW,RoW,RoW,Rest of Asia
+528,Netherlands,Netherlands,NL,NLD,NL,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+536,Neutral Zone,Neutral Zone,,,,RoW,RoW,RoW,Rest of Asia
+540,New Caledonia,New Caledonia,NC,NCL,NC,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+554,New Zealand,New Zealand,NZ,NZL,NZ,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+558,Nicaragua,Nicaragua,NI,NIC,NI,RoW,RoW,South America,South America
+562,Niger,Niger,NE,NER,NE,RoW,RoW,Africa & Asia,Africa
+566,Nigeria,Nigeria,NG,NGA,NG,RoW,"IAI Area, Africa",Africa & Asia,Africa
+570,Niue,Niue,NU,NIU,NU,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+574,Norfolk Islands,Norfolk Isds,NF,NFK,NF,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+637,"North America, the Caribbean and Central America not elsewhere specified","North America and Central America, nes",,,,RoW,RoW,RoW,North America
+290,"Northern Africa, not elsewhere specified","Northern Africa, nes",,,,RoW,RoW,RoW,Africa
+579,Norway,Norway,NO,NOR,NO,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+527,"Oceania, not elsewhere specified","Oceania, nes",,,,RoW,RoW,RoW,Oceania
+512,Oman,Oman,OM,OMN,OM,RoW,"IAI Area, Gulf Cooperation Council",Africa & Asia,GCC
+577,"Other Africa, not elsewhere specified","Other Africa, nes",,,,RoW,RoW,RoW,Africa
+490,"Other Asia, not elsewhere specified","Other Asia, nes",,,,RoW,RoW,RoW,Rest of Asia
+568,"Other Europe, not elsewhere specified","Other Europe, nes",,,,RoW,RoW,RoW,Europe
+586,Pakistan,Pakistan,PK,PAK,PK,RoW,RoW,Africa & Asia,Rest of Asia
+585,Palau,Palau,PW,PLW,PW,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+591,Panama,Panama,PA,PAN,PA,RoW,RoW,South America,South America
+598,Papua New Guinea,Papua New Guinea,PG,PNG,PG,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+600,Paraguay,Paraguay,PY,PRY,PY,RoW,RoW,South America,South America
+459,Peninsula Malaysia,Peninsula Malaysia,,,,RoW,RoW,RoW,Rest of Asia
+604,Peru,Peru,PE,PER,PE,RoW,RoW,South America,South America
+608,Philippines,Philippines,PH,PHL,PH,RoW,RoW,Africa & Asia,Rest of Asia
+612,Pitcairn,Pitcairn,PN,PCN,PN,RoW,RoW,RoW,Rest of Asia
+616,Poland,Poland,PL,POL,PL,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+620,Portugal,Portugal,PT,PRT,PT,RoW,RoW,Europe,Europe
+634,Qatar,Qatar,QA,QAT,QA,RoW,"IAI Area, Gulf Cooperation Council",Africa & Asia,GCC
+410,Republic of Korea,Rep. of Korea,KR,KOR,KR,RoW,RoW,Africa & Asia,Rest of Asia
+498,Republic of Moldova,Rep. of Moldova,MD,MDA,MD,RoW,RoW,Europe,Europe
+636,"Rest of America, not elsewhere specified","Rest of America, nes",,,,RoW,RoW,RoW,North America
+638,Réunion,Réunion,RE,REU,RE,RoW,RoW,Africa & Asia,Africa
+642,Romania,Romania,RO,ROU,RO,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+643,Russian Federation,Russian Federation,RU,RUS,RU,RoW,"IAI Area, Russia & RER w/o EU27 & EFTA",Europe,Europe
+646,Rwanda,Rwanda,RW,RWA,RW,RoW,RoW,Africa & Asia,Africa
+647,Ryukyu Island,Ryukyu Isd,,,,RoW,RoW,RoW,Rest of Asia
+461,Sabah,Sabah,,,,RoW,RoW,RoW,Rest of Asia
+652,Saint Barthélemy,Saint Barthélemy,BL,BLM,BL,RoW,RoW,South America,South America
+654,Saint Helena,Saint Helena,SH,SHN,SH,RoW,RoW,Africa & Asia,Africa
+659,Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA,KN,RoW,RoW,South America,South America
+658,"Saint Kitts, Nevis and Anguilla","Saint Kitts, Nevis and Anguilla",KN,KNA,KN,RoW,RoW,South America,South America
+662,Saint Lucia,Saint Lucia,LC,LCA,LC,RoW,RoW,South America,South America
+534,Saint Maarten (Dutch part),Saint Maarten,SX,SXM,SX,RoW,RoW,South America,South America
+666,Saint Pierre and Miquelon,Saint Pierre and Miquelon,PM,SPM,PM,RNA,RoW,North America,North America
+670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT,VC,RoW,RoW,South America,South America
+882,Samoa,Samoa,WS,WSM,WS,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+674,San Marino,San Marino,SM,SMR,SM,RoW,RoW,Europe,Europe
+678,Sao Tome and Principe,Sao Tome and Principe,ST,STP,ST,RoW,RoW,Africa & Asia,Africa
+457,Sarawak,Sarawak,,,,RoW,RoW,RoW,Rest of Asia
+682,Saudi Arabia,Saudi Arabia,SA,SAU,SA,"IAI Area, Gulf Cooperation Council","IAI Area, Gulf Cooperation Council",Africa & Asia,GCC
+686,Senegal,Senegal,SN,SEN,SN,RoW,RoW,Africa & Asia,Africa
+688,Serbia,Serbia,RS,SRB,RS,RoW,RoW,Europe,Europe
+891,Serbia and Montenegro,Serbia and Montenegro,CS,SCG,ME,RoW,"IAI Area, Russia & RER w/o EU27 & EFTA",Europe,Europe
+690,Seychelles,Seychelles,SC,SYC,SC,RoW,RoW,Africa & Asia,Europe
+694,Sierra Leone,Sierra Leone,SL,SLE,SL,RoW,RoW,Africa & Asia,Africa
+698,Sikkim,Sikkim,,,,RoW,RoW,RoW,Rest of Asia
+702,Singapore,Singapore,SG,SGP,SG,RoW,RoW,Africa & Asia,Rest of Asia
+703,Slovakia,Slovakia,SK,SVK,SK,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+705,Slovenia,Slovenia,SI,SVN,SI,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+711,Southern African Customs Union,So. African Customs Union,ZA,ZAF,ZA,RoW,"IAI Area, Africa",Africa & Asia,Africa
+90,Solomon Islands,Solomon Isds,SB,SLB,SB,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+706,Somalia,Somalia,SO,SOM,SO,RoW,RoW,Africa & Asia,Africa
+710,South Africa,South Africa,ZA,ZAF,ZA,RoW,"IAI Area, Africa",Africa & Asia,Africa
+239,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,GS,SGS,GS,RoW,RoW,RoW,Rest of Asia
+728,South Sudan,South Sudan,SS,SSD,SS,RoW,RoW,Africa & Asia,Africa
+724,Spain,Spain,ES,ESP,ES,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+839,Special Categories,Special Categories,,,,RoW,RoW,RoW,Rest of Asia
+144,Sri Lanka,Sri Lanka,LK,LKA,LK,RoW,RoW,Africa & Asia,Rest of Asia
+275,State of Palestine,State of Palestine,PS,PSE,PS,RoW,RoW,Africa & Asia,Rest of Asia
+729,Sudan,Sudan,SD,SDN,SD,RoW,RoW,Africa & Asia,Africa
+740,Suriname,Suriname,SR,SUR,SR,"IAI Area, South America","IAI Area, South America",South America,South America
+748,Swaziland,Swaziland,SZ,SWZ,SZ,RoW,RoW,Africa & Asia,Africa
+752,Sweden,Sweden,SE,SWE,SE,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+757,Switzerland,Switzerland,CH,CHE,CH,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+760,Syria,Syria,SY,SYR,SY,RoW,RoW,Africa & Asia,Rest of Asia
+762,Tajikistan,Tajikistan,TJ,TJK,TJ,RoW,"IAI Area, Asia, without China and GCC",Africa & Asia,Rest of Asia
+807,The Former Yugoslav Republic of Macedonia,TFYR of Macedonia,MK,MKD,MK,RoW,RoW,Europe,Europe
+764,Thailand,Thailand,TH,THA,TH,RoW,RoW,Africa & Asia,Rest of Asia
+626,Timor-Leste,Timor-Leste,TL,TLS,TL,RoW,RoW,Africa & Asia,Africa
+768,Togo,Togo,TG,TGO,TG,RoW,RoW,Africa & Asia,Africa
+772,Tokelau,Tokelau,TK,TKL,TK,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+776,Tonga,Tonga,TO,TON,TO,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+780,Trinidad and Tobago,Trinidad and Tobago,TT,TTO,TT,RoW,RoW,South America,South America
+788,Tunisia,Tunisia,TN,TUN,TN,RoW,RoW,Africa & Asia,Africa
+792,Turkey,Turkey,TR,TUR,TR,RoW,"IAI Area, Asia, without China and GCC",Africa & Asia,Europe
+795,Turkmenistan,Turkmenistan,TM,TKM,TM,RoW,RoW,Africa & Asia,Rest of Asia
+796,Turks and Caicos Islands,Turks and Caicos Isds,TC,TCA,TC,RoW,RoW,South America,South America
+798,Tuvalu,Tuvalu,TV,TUV,TV,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+800,Uganda,Uganda,UG,UGA,UG,RoW,RoW,Africa & Asia,Africa
+804,Ukraine,Ukraine,UA,UKR,UA,"IAI Area, Russia & RER w/o EU27 & EFTA","IAI Area, Russia & RER w/o EU27 & EFTA",Europe,Europe
+784,United Arab Emirates,United Arab Emirates,AE,ARE,AE,RoW,"IAI Area, Gulf Cooperation Council",Africa & Asia,GCC
+826,United Kingdom,United Kingdom,GB,GBR,GB,"IAI Area, EU27 & EFTA","IAI Area, EU27 & EFTA",Europe,Europe
+834,United Republic of Tanzania,United Rep. of Tanzania,TZ,TZA,TZ,RoW,RoW,Africa & Asia,Africa
+581,United States Minor Outlying Islands,United States Minor Outlying Islands,UM,UMI,UM,RoW,RoW,RoW,North America
+858,Uruguay,Uruguay,UY,URY,UY,RoW,RoW,South America,South America
+849,US Miscellaneous Pacific Islands,US Misc. Pacific Isds,,,,RoW,RoW,RoW,North America
+850,US Virgin Islands,US Virgin Isds,VI,VIR,VI,RoW,RoW,South America,South America
+842,USA,USA,US,USA,US,RNA,"IAI Area, North America, without Quebec",North America,North America
+841,USA and Puerto Rico,USA (before 1981),US,USA,,RNA,"IAI Area, North America, without Quebec",North America,North America
+860,Uzbekistan,Uzbekistan,UZ,UZB,UZ,RoW,RoW,Africa & Asia,Rest of Asia
+548,Vanuatu,Vanuatu,VU,VUT,VU,UN-OCEANIA,UN-OCEANIA,Oceania,Oceania
+862,Venezuela,Venezuela,VE,VEN,VE,"IAI Area, South America","IAI Area, South America",South America,South America
+704,Viet Nam,Viet Nam,VN,VNM,VN,RoW,RoW,Africa & Asia,Rest of Asia
+876,Wallis and Futuna Islands,Wallis and Futuna Isds,WF,WLF,WF,RoW,RoW,RoW,Rest of Asia
+879,"Western Asia, not elsewhere specified","Western Asia, nes",,,,RoW,RoW,RoW,Rest of Asia
+732,Western Sahara,Western Sahara,EH,ESH,EH,RoW,RoW,Africa & Asia,Africa
+0,World,World,WL,WLD,,RoW,RoW,RoW,Rest of Asia
+887,Yemen,Yemen,YE,YEM,YE,RoW,RoW,Africa & Asia,Rest of Asia
+894,Zambia,Zambia,ZM,ZMB,ZM,RoW,RoW,Africa & Asia,Africa
+716,Zimbabwe,Zimbabwe,ZW,ZWE,ZW,RoW,RoW,Africa & Asia,Africa

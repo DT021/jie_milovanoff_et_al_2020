@@ -1,0 +1,357 @@
+Year,Mineral,Producer_region,Consumer_region,type,value
+2000,alumina,Africa,Africa,Domestic,0.010465228745526646
+2000,alumina,China,Africa,Embodied,3.57157074295301e-06
+2000,alumina,China,China,Domestic,0.08328642906760385
+2000,alumina,China,Europe,Embodied,5.260849835692187e-05
+2000,alumina,China,GCC,Embodied,2.059589690200736e-08
+2000,alumina,China,North America,Embodied,0.00011506976303992399
+2000,alumina,China,Oceania,Embodied,1.510855902080603e-07
+2000,alumina,China,Rest of Asia,Embodied,0.00025383143756938377
+2000,alumina,China,South America,Embodied,4.883640657954269e-05
+2000,alumina,Europe,Africa,Embodied,0.0002601993317460565
+2000,alumina,Europe,China,Embodied,0.00030317627193117105
+2000,alumina,Europe,Europe,Domestic,0.13406664702856133
+2000,alumina,Europe,Europe,Embodied,0.06723863585967468
+2000,alumina,Europe,GCC,Embodied,5.8319973512016155e-06
+2000,alumina,Europe,North America,Embodied,0.0005988121210418518
+2000,alumina,Europe,Oceania,Embodied,1.4166393450508659e-05
+2000,alumina,Europe,Rest of Asia,Embodied,0.00039960604022835314
+2000,alumina,Europe,South America,Embodied,0.0003047230022474895
+2000,alumina,North America,Africa,Embodied,5.16947077184385e-05
+2000,alumina,North America,China,Embodied,0.0003719489820268768
+2000,alumina,North America,Europe,Embodied,0.00046462998181658494
+2000,alumina,North America,GCC,Embodied,3.6144509758855276e-05
+2000,alumina,North America,North America,Domestic,0.09440236210126078
+2000,alumina,North America,North America,Embodied,0.016374205838567375
+2000,alumina,North America,Oceania,Embodied,5.135419933438062e-06
+2000,alumina,North America,Rest of Asia,Embodied,0.0003953284243999229
+2000,alumina,North America,South America,Embodied,0.0003465624148253242
+2000,alumina,Oceania,Africa,Embodied,0.03049769669430202
+2000,alumina,Oceania,China,Embodied,0.031209308196682578
+2000,alumina,Oceania,Europe,Embodied,0.01608685188044536
+2000,alumina,Oceania,GCC,Embodied,0.017674589005337662
+2000,alumina,Oceania,North America,Embodied,0.05033576656290467
+2000,alumina,Oceania,Oceania,Domestic,0.1375685601715467
+2000,alumina,Oceania,Oceania,Embodied,0.011902947226503749
+2000,alumina,Oceania,Rest of Asia,Embodied,0.007108913716301295
+2000,alumina,Oceania,South America,Embodied,0.00093290209099967
+2000,alumina,Rest of Asia,Africa,Embodied,3.892072011626407e-05
+2000,alumina,Rest of Asia,China,Embodied,0.000586995075008136
+2000,alumina,Rest of Asia,Europe,Embodied,0.0040838105525114795
+2000,alumina,Rest of Asia,GCC,Embodied,5.2265552400708965e-05
+2000,alumina,Rest of Asia,North America,Embodied,0.0008687575346625103
+2000,alumina,Rest of Asia,Oceania,Embodied,2.084994645240926e-05
+2000,alumina,Rest of Asia,Rest of Asia,Domestic,0.06859534342543389
+2000,alumina,Rest of Asia,Rest of Asia,Embodied,0.0017509706647205348
+2000,alumina,Rest of Asia,South America,Embodied,5.5684901990542345e-06
+2000,alumina,South America,Africa,Embodied,0.004291232982197266
+2000,alumina,South America,China,Embodied,0.000754603760841608
+2000,alumina,South America,Europe,Embodied,0.05141055328355086
+2000,alumina,South America,GCC,Embodied,9.729057146417552e-06
+2000,alumina,South America,North America,Embodied,0.03447254879699976
+2000,alumina,South America,Oceania,Embodied,6.444899549056564e-06
+2000,alumina,South America,Rest of Asia,Embodied,0.00019684367564615752
+2000,alumina,South America,South America,Domestic,0.11015261226231361
+2000,alumina,South America,South America,Embodied,0.00951885617778005
+2000,aluminium,Africa,Africa,Domestic,0.015521446642441084
+2000,aluminium,Africa,Africa,Embodied,0.00027032502237952437
+2000,aluminium,Africa,China,Embodied,0.0007542251509361687
+2000,aluminium,Africa,Europe,Embodied,0.010714326422222021
+2000,aluminium,Africa,GCC,Embodied,1.8860048732383972e-06
+2000,aluminium,Africa,North America,Embodied,0.000976576553476624
+2000,aluminium,Africa,Oceania,Embodied,1.0838571832758442e-06
+2000,aluminium,Africa,Rest of Asia,Embodied,0.018077797227463967
+2000,aluminium,Africa,South America,Embodied,0.000511389988549318
+2000,aluminium,China,Africa,Embodied,1.1254578723680817e-06
+2000,aluminium,China,China,Domestic,0.10947608693485497
+2000,aluminium,China,Europe,Embodied,2.0752910358440477e-05
+2000,aluminium,China,GCC,Embodied,3.2303317716078197e-09
+2000,aluminium,China,North America,Embodied,1.77421706678052e-05
+2000,aluminium,China,Oceania,Embodied,4.715013788703796e-06
+2000,aluminium,China,Rest of Asia,Embodied,0.005527770008960208
+2000,aluminium,China,South America,Embodied,3.844982029292681e-06
+2000,aluminium,Europe,Africa,Embodied,0.0002051445813734508
+2000,aluminium,Europe,China,Embodied,0.015480148828505886
+2000,aluminium,Europe,Europe,Domestic,0.10213318655043403
+2000,aluminium,Europe,Europe,Embodied,0.1258433836723954
+2000,aluminium,Europe,GCC,Embodied,1.805855737744518e-05
+2000,aluminium,Europe,North America,Embodied,0.028336651370225747
+2000,aluminium,Europe,Oceania,Embodied,6.058878904029399e-06
+2000,aluminium,Europe,Rest of Asia,Embodied,0.04998074486009452
+2000,aluminium,Europe,South America,Embodied,0.0021190540149295285
+2000,aluminium,GCC,Africa,Embodied,0.0002641662170555394
+2000,aluminium,GCC,China,Embodied,0.0015112425804257187
+2000,aluminium,GCC,Europe,Embodied,0.004565292443233569
+2000,aluminium,GCC,GCC,Domestic,0.013158511158472294
+2000,aluminium,GCC,GCC,Embodied,0.00028868594577601214
+2000,aluminium,GCC,North America,Embodied,0.0029877684053300634
+2000,aluminium,GCC,Oceania,Embodied,2.880711122886551e-06
+2000,aluminium,GCC,Rest of Asia,Embodied,0.017320395534648914
+2000,aluminium,GCC,South America,Embodied,0.00012974265805085588
+2000,aluminium,North America,Africa,Embodied,1.1817772417514362e-05
+2000,aluminium,North America,China,Embodied,0.00048852455599423
+2000,aluminium,North America,Europe,Embodied,0.006507895382395487
+2000,aluminium,North America,GCC,Embodied,2.4764480632841453e-06
+2000,aluminium,North America,North America,Domestic,0.1724010539557722
+2000,aluminium,North America,North America,Embodied,0.053132380620282756
+2000,aluminium,North America,Oceania,Embodied,7.742287572322217e-06
+2000,aluminium,North America,Rest of Asia,Embodied,0.010881943060045729
+2000,aluminium,North America,South America,Embodied,0.004827842579885463
+2000,aluminium,Oceania,Africa,Embodied,2.9985605237423266e-06
+2000,aluminium,Oceania,China,Embodied,0.0058751370857253295
+2000,aluminium,Oceania,Europe,Embodied,0.00017170451643280744
+2000,aluminium,Oceania,GCC,Embodied,3.21594447824329e-08
+2000,aluminium,Oceania,North America,Embodied,0.0006599273214773227
+2000,aluminium,Oceania,Oceania,Domestic,0.01705393102034023
+2000,aluminium,Oceania,Oceania,Embodied,8.075931508529731e-05
+2000,aluminium,Oceania,Rest of Asia,Embodied,0.062218174393445
+2000,aluminium,Oceania,South America,Embodied,0.00011953212137204781
+2000,aluminium,Rest of Asia,Africa,Embodied,9.441237990098272e-06
+2000,aluminium,Rest of Asia,China,Embodied,0.0006204250084183783
+2000,aluminium,Rest of Asia,Europe,Embodied,0.00021680221407418252
+2000,aluminium,Rest of Asia,GCC,Embodied,8.769357349307712e-06
+2000,aluminium,Rest of Asia,North America,Embodied,0.0008176780324190802
+2000,aluminium,Rest of Asia,Oceania,Embodied,7.313237063995484e-07
+2000,aluminium,Rest of Asia,Rest of Asia,Domestic,0.03861815683634508
+2000,aluminium,Rest of Asia,Rest of Asia,Embodied,0.009797915469888492
+2000,aluminium,Rest of Asia,South America,Embodied,1.672348904247192e-05
+2000,aluminium,South America,Africa,Embodied,0.0001089381779178397
+2000,aluminium,South America,China,Embodied,9.642570912521519e-05
+2000,aluminium,South America,Europe,Embodied,0.019030252145901653
+2000,aluminium,South America,GCC,Embodied,1.0995339869230964e-06
+2000,aluminium,South America,North America,Embodied,0.010010759640158642
+2000,aluminium,South America,Oceania,Embodied,3.268097569342772e-06
+2000,aluminium,South America,Rest of Asia,Embodied,0.019728759189240063
+2000,aluminium,South America,South America,Domestic,0.03435757582131629
+2000,aluminium,South America,South America,Embodied,0.005880191012530473
+2000,bauxite,Africa,Africa,Domestic,0.04172755514646469
+2000,bauxite,Africa,Africa,Embodied,0.00010897770135933409
+2000,bauxite,Africa,China,Embodied,2.8206991405717667e-07
+2000,bauxite,Africa,Europe,Embodied,0.07360595913739586
+2000,bauxite,Africa,GCC,Embodied,2.487734669148923e-07
+2000,bauxite,Africa,North America,Embodied,2.8259745725190337e-05
+2000,bauxite,Africa,Oceania,Embodied,1.7244401656600834e-07
+2000,bauxite,Africa,Rest of Asia,Embodied,0.003886582986096883
+2000,bauxite,Africa,South America,Embodied,1.7948265410589327e-06
+2000,bauxite,China,Africa,Embodied,0.0001489410867229655
+2000,bauxite,China,China,Domestic,0.05982093893888277
+2000,bauxite,China,Europe,Embodied,0.004460189250606808
+2000,bauxite,China,GCC,Embodied,1.4568405379903875e-05
+2000,bauxite,China,North America,Embodied,3.167182704400998e-05
+2000,bauxite,China,Oceania,Embodied,4.6142343185794134e-05
+2000,bauxite,China,Rest of Asia,Embodied,0.0013275937387991375
+2000,bauxite,China,South America,Embodied,0.0004120736589586292
+2000,bauxite,Europe,Africa,Embodied,9.488267057105062e-07
+2000,bauxite,Europe,China,Embodied,1.6790328199878296e-05
+2000,bauxite,Europe,Europe,Domestic,0.057225275668315985
+2000,bauxite,Europe,Europe,Embodied,0.003973067621428742
+2000,bauxite,Europe,GCC,Embodied,1.0628000920210782e-07
+2000,bauxite,Europe,North America,Embodied,0.0006265093070245287
+2000,bauxite,Europe,Oceania,Embodied,8.937167677350529e-08
+2000,bauxite,Europe,Rest of Asia,Embodied,3.7759651969618266e-06
+2000,bauxite,Europe,South America,Embodied,2.0349041654773128e-06
+2000,bauxite,Oceania,Oceania,Domestic,0.3961171576112978
+2000,bauxite,Rest of Asia,Africa,Embodied,1.81107925165186e-06
+2000,bauxite,Rest of Asia,China,Embodied,1.4966729569780659e-05
+2000,bauxite,Rest of Asia,Europe,Embodied,0.003457596771029937
+2000,bauxite,Rest of Asia,GCC,Embodied,0.0035799621948755683
+2000,bauxite,Rest of Asia,North America,Embodied,0.0007730452657350624
+2000,bauxite,Rest of Asia,Oceania,Embodied,5.2510344143011364e-08
+2000,bauxite,Rest of Asia,Rest of Asia,Domestic,0.07940465147201962
+2000,bauxite,Rest of Asia,Rest of Asia,Embodied,0.008291498657608773
+2000,bauxite,Rest of Asia,South America,Embodied,1.0496980757625965e-06
+2000,bauxite,South America,Africa,Embodied,0.0001547318322280754
+2000,bauxite,South America,China,Embodied,2.0792185974547198e-05
+2000,bauxite,South America,Europe,Embodied,0.014587839806333016
+2000,bauxite,South America,GCC,Embodied,1.7284894673710637e-07
+2000,bauxite,South America,North America,Embodied,0.03534904909726903
+2000,bauxite,South America,Oceania,Embodied,3.557178144842003e-05
+2000,bauxite,South America,Rest of Asia,Embodied,0.0001984032077580105
+2000,bauxite,South America,South America,Domestic,0.20996373204118407
+2000,bauxite,South America,South America,Embodied,0.0005773648557662818
+2017,alumina,China,Africa,Embodied,9.076998469514114e-05
+2017,alumina,China,China,Domestic,0.5918009945192385
+2017,alumina,China,Europe,Embodied,0.0005056069521435
+2017,alumina,China,GCC,Embodied,0.00011941531198879642
+2017,alumina,China,North America,Embodied,0.00011855877684516148
+2017,alumina,China,Oceania,Embodied,3.0591465204026717e-06
+2017,alumina,China,Rest of Asia,Embodied,0.0008213262479929939
+2017,alumina,China,South America,Embodied,3.76026232799167e-05
+2017,alumina,Europe,Africa,Embodied,7.494464135719629e-08
+2017,alumina,Europe,China,Embodied,1.3767251368600777e-07
+2017,alumina,Europe,Europe,Domestic,0.023625124784714246
+2017,alumina,Europe,Europe,Embodied,1.730801275838681e-05
+2017,alumina,Europe,GCC,Embodied,5.244317555005476e-06
+2017,alumina,Europe,North America,Embodied,5.053662070343651e-08
+2017,alumina,Europe,Oceania,Embodied,4.431920715018575e-10
+2017,alumina,Europe,Rest of Asia,Embodied,0.000608019270636455
+2017,alumina,Europe,South America,Embodied,1.799775687946183e-08
+2017,alumina,North America,Africa,Embodied,1.3637071135016273e-05
+2017,alumina,North America,China,Embodied,9.966701172443081e-05
+2017,alumina,North America,Europe,Embodied,0.0012632095302420523
+2017,alumina,North America,GCC,Embodied,0.000219981987494408
+2017,alumina,North America,North America,Domestic,0.023568406299144876
+2017,alumina,North America,North America,Embodied,0.00021592770335804925
+2017,alumina,North America,Oceania,Embodied,2.199088947518079e-07
+2017,alumina,North America,Rest of Asia,Embodied,0.00020970896909685581
+2017,alumina,North America,South America,Embodied,0.0002134734129401917
+2017,alumina,Oceania,Africa,Embodied,0.010629520192172302
+2017,alumina,Oceania,China,Embodied,0.010600621855269454
+2017,alumina,Oceania,Europe,Embodied,0.015137024157920112
+2017,alumina,Oceania,GCC,Embodied,0.006005292109398334
+2017,alumina,Oceania,North America,Embodied,0.010410487250171869
+2017,alumina,Oceania,Oceania,Domestic,0.005792990226196181
+2017,alumina,Oceania,Oceania,Embodied,0.005629599300532587
+2017,alumina,Oceania,Rest of Asia,Embodied,0.10864882725741437
+2017,alumina,Oceania,South America,Embodied,0.00347455559346739
+2017,alumina,Rest of Asia,Africa,Embodied,0.001541212103885111
+2017,alumina,Rest of Asia,China,Embodied,0.012069198936323277
+2017,alumina,Rest of Asia,Europe,Embodied,0.00020636015748610784
+2017,alumina,Rest of Asia,GCC,Embodied,0.008537014724882613
+2017,alumina,Rest of Asia,North America,Embodied,7.683409658683458e-05
+2017,alumina,Rest of Asia,Oceania,Embodied,0.0001857089684749127
+2017,alumina,Rest of Asia,Rest of Asia,Domestic,0.0438930392902722
+2017,alumina,Rest of Asia,Rest of Asia,Embodied,0.004533615835538538
+2017,alumina,Rest of Asia,South America,Embodied,4.6677014480838685e-06
+2017,alumina,South America,Africa,Embodied,0.004140412474912385
+2017,alumina,South America,China,Embodied,0.0003883567467327617
+2017,alumina,South America,Europe,Embodied,0.034735853509284105
+2017,alumina,South America,GCC,Embodied,0.009827300335957589
+2017,alumina,South America,North America,Embodied,0.03735055388955313
+2017,alumina,South America,Oceania,Embodied,5.610041927539515e-07
+2017,alumina,South America,Rest of Asia,Embodied,0.0007552990557020948
+2017,alumina,South America,South America,Domestic,0.01796652648044856
+2017,alumina,South America,South America,Embodied,0.003901023308652721
+2017,aluminium,Africa,Africa,Domestic,0.007848689087384052
+2017,aluminium,Africa,Africa,Embodied,0.00017499190877724683
+2017,aluminium,Africa,China,Embodied,0.0003932286344203503
+2017,aluminium,Africa,Europe,Embodied,0.014265405855679786
+2017,aluminium,Africa,GCC,Embodied,2.4610709474101945e-05
+2017,aluminium,Africa,North America,Embodied,0.0014849596573983119
+2017,aluminium,Africa,Oceania,Embodied,1.698694253851886e-06
+2017,aluminium,Africa,Rest of Asia,Embodied,0.0037185451440122945
+2017,aluminium,Africa,South America,Embodied,0.00029548369050568093
+2017,aluminium,China,Africa,Embodied,2.0748622467484185e-05
+2017,aluminium,China,China,Domestic,0.537755750680889
+2017,aluminium,China,Europe,Embodied,0.00013099833466975933
+2017,aluminium,China,GCC,Embodied,1.0129839692181785e-05
+2017,aluminium,China,North America,Embodied,0.00010533720495701764
+2017,aluminium,China,Oceania,Embodied,2.935706711967505e-05
+2017,aluminium,China,Rest of Asia,Embodied,0.008699779541910565
+2017,aluminium,China,South America,Embodied,7.120006854289666e-05
+2017,aluminium,Europe,Africa,Embodied,0.00015346935856414383
+2017,aluminium,Europe,China,Embodied,0.00036255016795756615
+2017,aluminium,Europe,Europe,Domestic,0.03812446786187731
+2017,aluminium,Europe,Europe,Embodied,0.06632422545739655
+2017,aluminium,Europe,GCC,Embodied,1.1176301262026438e-05
+2017,aluminium,Europe,North America,Embodied,0.011801258905507832
+2017,aluminium,Europe,Oceania,Embodied,1.81214616015926e-05
+2017,aluminium,Europe,Rest of Asia,Embodied,0.017394041817749655
+2017,aluminium,Europe,South America,Embodied,0.003389646590612558
+2017,aluminium,GCC,Africa,Embodied,0.0013811601228616588
+2017,aluminium,GCC,China,Embodied,0.0009040312712843554
+2017,aluminium,GCC,Europe,Embodied,0.020340680038896667
+2017,aluminium,GCC,GCC,Domestic,0.015253306807770551
+2017,aluminium,GCC,GCC,Embodied,0.0010677837383620368
+2017,aluminium,GCC,North America,Embodied,0.015029225745681255
+2017,aluminium,GCC,Oceania,Embodied,6.670042700430132e-05
+2017,aluminium,GCC,Rest of Asia,Embodied,0.031019741111191115
+2017,aluminium,GCC,South America,Embodied,0.0021002329407513684
+2017,aluminium,North America,Africa,Embodied,3.0501401406250245e-06
+2017,aluminium,North America,China,Embodied,3.46169018577998e-05
+2017,aluminium,North America,Europe,Embodied,0.0005349407390202077
+2017,aluminium,North America,GCC,Embodied,2.959902835863871e-06
+2017,aluminium,North America,North America,Domestic,0.01842400563501166
+2017,aluminium,North America,North America,Embodied,0.03775232146062126
+2017,aluminium,North America,Oceania,Embodied,8.40258786817172e-07
+2017,aluminium,North America,Rest of Asia,Embodied,0.003939368918893385
+2017,aluminium,North America,South America,Embodied,0.005365180224510821
+2017,aluminium,Oceania,Africa,Embodied,0.00020440770804528883
+2017,aluminium,Oceania,China,Embodied,0.0005867847817602811
+2017,aluminium,Oceania,Europe,Embodied,0.0008668574906299284
+2017,aluminium,Oceania,GCC,Embodied,1.4155557987683477e-05
+2017,aluminium,Oceania,North America,Embodied,0.001476350217212331
+2017,aluminium,Oceania,Oceania,Domestic,0.004075783193917737
+2017,aluminium,Oceania,Oceania,Embodied,1.6020960670296672e-05
+2017,aluminium,Oceania,Rest of Asia,Embodied,0.021810252868888394
+2017,aluminium,Oceania,South America,Embodied,0.0007946464034020146
+2017,aluminium,Rest of Asia,Africa,Embodied,0.00012645320547100217
+2017,aluminium,Rest of Asia,China,Embodied,0.0008819732099117211
+2017,aluminium,Rest of Asia,Europe,Embodied,0.0123003209453195
+2017,aluminium,Rest of Asia,GCC,Embodied,0.0003078467781950579
+2017,aluminium,Rest of Asia,North America,Embodied,0.0021409485778960697
+2017,aluminium,Rest of Asia,Oceania,Embodied,5.492304366266041e-06
+2017,aluminium,Rest of Asia,Rest of Asia,Domestic,0.045166091732274045
+2017,aluminium,Rest of Asia,Rest of Asia,Embodied,0.01801078536936589
+2017,aluminium,Rest of Asia,South America,Embodied,0.0023407937359618213
+2017,aluminium,South America,Africa,Embodied,8.139853824748338e-07
+2017,aluminium,South America,China,Embodied,8.175964532217185e-06
+2017,aluminium,South America,Europe,Embodied,0.0005648483683591418
+2017,aluminium,South America,GCC,Embodied,1.8744135055665228e-07
+2017,aluminium,South America,North America,Embodied,0.0049102553943549876
+2017,aluminium,South America,Oceania,Embodied,4.72407449868938e-07
+2017,aluminium,South America,Rest of Asia,Embodied,0.003032027227482939
+2017,aluminium,South America,South America,Domestic,0.012797292693547511
+2017,aluminium,South America,South America,Embodied,0.0017299424260994983
+2017,bauxite,Africa,Africa,Domestic,0.018945622441147038
+2017,bauxite,Africa,Africa,Embodied,9.064421399361961e-05
+2017,bauxite,Africa,China,Embodied,0.09190065257849836
+2017,bauxite,Africa,Europe,Embodied,0.046714710560685366
+2017,bauxite,Africa,GCC,Embodied,2.229017421417146e-05
+2017,bauxite,Africa,North America,Embodied,0.0005177462750906971
+2017,bauxite,Africa,Oceania,Embodied,2.7781625448290763e-06
+2017,bauxite,Africa,Rest of Asia,Embodied,0.0022875181075974237
+2017,bauxite,Africa,South America,Embodied,0.0007941622507900752
+2017,bauxite,China,Africa,Embodied,9.304134647439472e-06
+2017,bauxite,China,China,Domestic,0.22572266058213217
+2017,bauxite,China,Europe,Embodied,0.0003025362044457403
+2017,bauxite,China,GCC,Embodied,2.7393543320827e-07
+2017,bauxite,China,North America,Embodied,0.00016342530728053639
+2017,bauxite,China,Oceania,Embodied,5.4375022669307516e-06
+2017,bauxite,China,Rest of Asia,Embodied,7.548986861435451e-05
+2017,bauxite,China,South America,Embodied,0.00025955556345213994
+2017,bauxite,Europe,Africa,Embodied,7.354384714049282e-05
+2017,bauxite,Europe,China,Embodied,0.001508936777619886
+2017,bauxite,Europe,Europe,Domestic,0.02857848130820801
+2017,bauxite,Europe,Europe,Embodied,0.0019283753483952067
+2017,bauxite,Europe,GCC,Embodied,0.0001826679428930594
+2017,bauxite,Europe,North America,Embodied,0.0009296896871859241
+2017,bauxite,Europe,Oceania,Embodied,9.980365234546995e-08
+2017,bauxite,Europe,Rest of Asia,Embodied,0.00022125866049992702
+2017,bauxite,Europe,South America,Embodied,0.00010790798985088001
+2017,bauxite,GCC,Africa,Embodied,3.5575256445420022e-12
+2017,bauxite,GCC,China,Embodied,7.045324476220032e-08
+2017,bauxite,GCC,Europe,Embodied,2.776564032772627e-08
+2017,bauxite,GCC,GCC,Domestic,0.015071190957060412
+2017,bauxite,GCC,GCC,Embodied,5.7547209115004584e-11
+2017,bauxite,GCC,North America,Embodied,1.2340084534776188e-09
+2017,bauxite,GCC,Oceania,Embodied,3.1245942656539055e-10
+2017,bauxite,GCC,Rest of Asia,Embodied,4.0328286268086875e-09
+2017,bauxite,GCC,South America,Embodied,1.4349118739979775e-10
+2017,bauxite,Oceania,Africa,Embodied,3.578365440674981e-06
+2017,bauxite,Oceania,China,Embodied,0.08678252775688099
+2017,bauxite,Oceania,Europe,Embodied,0.000468476530602577
+2017,bauxite,Oceania,GCC,Embodied,4.369292394053835e-07
+2017,bauxite,Oceania,North America,Embodied,0.0006831908853978214
+2017,bauxite,Oceania,Oceania,Domestic,0.1964356800587873
+2017,bauxite,Oceania,Oceania,Embodied,1.0704905664888202e-07
+2017,bauxite,Oceania,Rest of Asia,Embodied,0.0011525591284768323
+2017,bauxite,Oceania,South America,Embodied,9.988748022252455e-05
+2017,bauxite,Rest of Asia,Africa,Embodied,3.717597030212308e-06
+2017,bauxite,Rest of Asia,China,Embodied,0.018314387183346676
+2017,bauxite,Rest of Asia,Europe,Embodied,5.678371111255365e-05
+2017,bauxite,Rest of Asia,GCC,Embodied,0.000650586991512956
+2017,bauxite,Rest of Asia,North America,Embodied,1.5695276581649525e-05
+2017,bauxite,Rest of Asia,Oceania,Embodied,7.842768046074211e-07
+2017,bauxite,Rest of Asia,Rest of Asia,Domestic,0.09648863828584615
+2017,bauxite,Rest of Asia,Rest of Asia,Embodied,0.0004421413257264282
+2017,bauxite,Rest of Asia,South America,Embodied,2.1543632157044136e-05
+2017,bauxite,South America,Africa,Embodied,4.1613970049789204e-06
+2017,bauxite,South America,China,Embodied,0.013093407170688817
+2017,bauxite,South America,Europe,Embodied,0.012506504126077444
+2017,bauxite,South America,GCC,Embodied,2.162244471610083e-05
+2017,bauxite,South America,North America,Embodied,0.017969517418651763
+2017,bauxite,South America,Oceania,Embodied,1.5930263381026855e-06
+2017,bauxite,South America,Rest of Asia,Embodied,0.0011874059614405067
+2017,bauxite,South America,South America,Domestic,0.11703940628232602
+2017,bauxite,South America,South America,Embodied,0.00013859552041546795

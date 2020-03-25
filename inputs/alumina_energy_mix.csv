@@ -1,0 +1,1191 @@
+Year,Region,source,value
+1985,North America,Coal,0
+1985,China,Coal,0
+1985,South America,Coal,0.033590723
+1985,Africa & Asia,Coal,0.36012562
+1985,Europe,Coal,0.056942934
+1985,Oceania,Coal,0.276275674
+1985,GLO,Coal,0.163746332
+1986,North America,Coal,0
+1986,China,Coal,0
+1986,South America,Coal,0.02541282
+1986,Africa & Asia,Coal,0.346214073
+1986,Europe,Coal,0.04718907
+1986,Oceania,Coal,0.317645613
+1986,GLO,Coal,0.169312369
+1987,North America,Coal,0
+1987,China,Coal,0
+1987,South America,Coal,0.041138203
+1987,Africa & Asia,Coal,0.372758208
+1987,Europe,Coal,0.03427734
+1987,Oceania,Coal,0.259449638
+1987,GLO,Coal,0.143093295
+1988,North America,Coal,0
+1988,China,Coal,0
+1988,South America,Coal,0.04424203
+1988,Africa & Asia,Coal,0.402453034
+1988,Europe,Coal,0.012921294
+1988,Oceania,Coal,0.255363996
+1988,GLO,Coal,0.146606186
+1989,North America,Coal,0
+1989,China,Coal,0
+1989,South America,Coal,0.038450476
+1989,Africa & Asia,Coal,0.395747048
+1989,Europe,Coal,0.027083796
+1989,Oceania,Coal,0.251761377
+1989,GLO,Coal,0.139901194
+1990,North America,Coal,0
+1990,China,Coal,0
+1990,South America,Coal,0.035006878
+1990,Africa & Asia,Coal,0.452992488
+1990,Europe,Coal,0
+1990,Oceania,Coal,0.253100877
+1990,GLO,Coal,0.141539801
+1991,North America,Coal,0
+1991,China,Coal,0
+1991,South America,Coal,0.034726728
+1991,Africa & Asia,Coal,0.47561886
+1991,Europe,Coal,0.033345851
+1991,Oceania,Coal,0.246846675
+1991,GLO,Coal,0.142777797
+1992,North America,Coal,0
+1992,China,Coal,0
+1992,South America,Coal,0.034744467
+1992,Africa & Asia,Coal,0.461245426
+1992,Europe,Coal,0
+1992,Oceania,Coal,0.260383831
+1992,GLO,Coal,0.142165771
+1993,North America,Coal,0
+1993,China,Coal,0
+1993,South America,Coal,0.033181686
+1993,Africa & Asia,Coal,0.479115616
+1993,Europe,Coal,0
+1993,Oceania,Coal,0.258980675
+1993,GLO,Coal,0.141827153
+1994,North America,Coal,0
+1994,China,Coal,0
+1994,South America,Coal,0.034973016
+1994,Africa & Asia,Coal,0.465422993
+1994,Europe,Coal,0
+1994,Oceania,Coal,0.266926449
+1994,GLO,Coal,0.147021987
+1995,North America,Coal,0
+1995,China,Coal,0
+1995,South America,Coal,0.038051388
+1995,Africa & Asia,Coal,0.463652753
+1995,Europe,Coal,0
+1995,Oceania,Coal,0.250425058
+1995,GLO,Coal,0.143925019
+1996,North America,Coal,0
+1996,China,Coal,0
+1996,South America,Coal,0.034847579
+1996,Africa & Asia,Coal,0.474141227
+1996,Europe,Coal,0
+1996,Oceania,Coal,0.250820995
+1996,GLO,Coal,0.143587745
+1997,North America,Coal,0
+1997,China,Coal,0
+1997,South America,Coal,0.034435193
+1997,Africa & Asia,Coal,0.489539056
+1997,Europe,Coal,0
+1997,Oceania,Coal,0.238679479
+1997,GLO,Coal,0.144508358
+1998,North America,Coal,0
+1998,China,Coal,0.724701413
+1998,South America,Coal,0.060485066
+1998,Africa & Asia,Coal,0.475175662
+1998,Europe,Coal,0
+1998,Oceania,Coal,0.240278405
+1998,GLO,Coal,0.293623916
+1999,North America,Coal,0
+1999,China,Coal,0.724698615
+1999,South America,Coal,0.068095242
+1999,Africa & Asia,Coal,0.503527359
+1999,Europe,Coal,0
+1999,Oceania,Coal,0.248352771
+1999,GLO,Coal,0.307373754
+2000,North America,Coal,0
+2000,China,Coal,0.724696933
+2000,South America,Coal,0.055787313
+2000,Africa & Asia,Coal,0.535404179
+2000,Europe,Coal,0
+2000,Oceania,Coal,0.243072544
+2000,GLO,Coal,0.30333383
+2001,North America,Coal,0
+2001,China,Coal,0.724696933
+2001,South America,Coal,0.036511442
+2001,Africa & Asia,Coal,0.573585408
+2001,Europe,Coal,0
+2001,Oceania,Coal,0.245013447
+2001,GLO,Coal,0.317296719
+2002,North America,Coal,0
+2002,China,Coal,0.724696933
+2002,South America,Coal,0.036511442
+2002,Africa & Asia,Coal,0.573585408
+2002,Europe,Coal,0
+2002,Oceania,Coal,0.245013447
+2002,GLO,Coal,0.317296719
+2003,North America,Coal,0
+2003,China,Coal,0.724696933
+2003,South America,Coal,0.027617885
+2003,Africa & Asia,Coal,0.43847553
+2003,Europe,Coal,0
+2003,Oceania,Coal,0.233323734
+2003,GLO,Coal,0.294360795
+2004,North America,Coal,0
+2004,China,Coal,0.724696933
+2004,South America,Coal,0.039702598
+2004,Africa & Asia,Coal,0.676452628
+2004,Europe,Coal,0.107506982
+2004,Oceania,Coal,0.239703439
+2004,GLO,Coal,0.334325877
+2005,North America,Coal,0
+2005,China,Coal,0.724696933
+2005,South America,Coal,0.031400368
+2005,Africa & Asia,Coal,0.600884479
+2005,Europe,Coal,0
+2005,Oceania,Coal,0.224559827
+2005,GLO,Coal,0.31942175
+2006,North America,Coal,0
+2006,China,Coal,0.724696933
+2006,South America,Coal,0.027628977
+2006,Africa & Asia,Coal,0.545505618
+2006,Europe,Coal,0.002043291
+2006,Oceania,Coal,0.229569033
+2006,GLO,Coal,0.323602869
+2007,North America,Coal,0
+2007,China,Coal,0.724696933
+2007,South America,Coal,0.033729837
+2007,Africa & Asia,Coal,0.326436782
+2007,Europe,Coal,0.001451576
+2007,Oceania,Coal,0.24499591
+2007,GLO,Coal,0.40013362
+2008,North America,Coal,0.001101602
+2008,China,Coal,0.724696933
+2008,South America,Coal,0.090100466
+2008,Africa & Asia,Coal,0.602489261
+2008,Europe,Coal,0.00037582
+2008,Oceania,Coal,0.235546902
+2008,GLO,Coal,0.421379092
+2009,North America,Coal,0.002958396
+2009,China,Coal,0.724696933
+2009,South America,Coal,0.171979218
+2009,Africa & Asia,Coal,0.554561189
+2009,Europe,Coal,0.180428891
+2009,Oceania,Coal,0.000150155
+2009,GLO,Coal,0.432236008
+2010,North America,Coal,0
+2010,China,Coal,0.724696933
+2010,South America,Coal,0.201297684
+2010,Africa & Asia,Coal,0.421895447
+2010,Europe,Coal,0.000212324
+2010,Oceania,Coal,0.124147697
+2010,GLO,Coal,0.453766126
+2011,North America,Coal,0
+2011,China,Coal,0.724696933
+2011,South America,Coal,0.21870375
+2011,Africa & Asia,Coal,0.656204874
+2011,Europe,Coal,0.000162625
+2011,Oceania,Coal,0.165668938
+2011,GLO,Coal,0.472148703
+2012,North America,Coal,0.001911823
+2012,China,Coal,0.724696933
+2012,South America,Coal,0.218212558
+2012,Africa & Asia,Coal,0.746218188
+2012,Europe,Coal,0
+2012,Oceania,Coal,0.203020269
+2012,GLO,Coal,0.503907334
+2013,North America,Coal,0.001222398
+2013,China,Coal,0.724696933
+2013,South America,Coal,0.240179237
+2013,Africa & Asia,Coal,0.738394167
+2013,Europe,Coal,0
+2013,Oceania,Coal,0.206348637
+2013,GLO,Coal,0.497154145
+2014,North America,Coal,0.001039227
+2014,China,Coal,0.724696933
+2014,South America,Coal,0.255425918
+2014,Africa & Asia,Coal,0.745527301
+2014,Europe,Coal,0
+2014,Oceania,Coal,0.243048474
+2014,GLO,Coal,0.51166352
+2015,North America,Coal,0
+2015,China,Coal,0.724696933
+2015,South America,Coal,0.250434353
+2015,Africa & Asia,Coal,0.755223089
+2015,Europe,Coal,0.166964359
+2015,Oceania,Coal,0.272737325
+2015,GLO,Coal,0.54053694
+2016,North America,Coal,0.002044775
+2016,China,Coal,0.724696933
+2016,South America,Coal,0.282087013
+2016,Africa & Asia,Coal,0.752156303
+2016,Europe,Coal,0
+2016,Oceania,Coal,0.300700956
+2016,GLO,Coal,0.533745336
+2017,North America,Coal,0.003696775
+2017,China,Coal,0.724696933
+2017,South America,Coal,0.284204385
+2017,Africa & Asia,Coal,0.569589584
+2017,Europe,Coal,0
+2017,Oceania,Coal,0.30986202
+2017,GLO,Coal,0.547947403
+2018,North America,Coal,0
+2018,China,Coal,0.724696933
+2018,South America,Coal,0.317621253
+2018,Africa & Asia,Coal,0.569518685
+2018,Europe,Coal,0
+2018,Oceania,Coal,0.315944418
+2018,GLO,Coal,0.559641205
+1985,North America,Oil,0.030786224
+1985,China,Oil,0
+1985,South America,Oil,0.861232682
+1985,Africa & Asia,Oil,0.544531135
+1985,Europe,Oil,0.514682043
+1985,Oceania,Oil,0.251091142
+1985,GLO,Oil,0.357537041
+1986,North America,Oil,0.014620276
+1986,China,Oil,0
+1986,South America,Oil,0.718381082
+1986,Africa & Asia,Oil,0.576552003
+1986,Europe,Oil,0.542909862
+1986,Oceania,Oil,0.221061686
+1986,GLO,Oil,0.36242749
+1987,North America,Oil,0.024563207
+1987,China,Oil,0
+1987,South America,Oil,0.703801487
+1987,Africa & Asia,Oil,0.558125632
+1987,Europe,Oil,0.582905104
+1987,Oceania,Oil,0.233934839
+1987,GLO,Oil,0.360392853
+1988,North America,Oil,0.048375883
+1988,China,Oil,0
+1988,South America,Oil,0.675889463
+1988,Africa & Asia,Oil,0.518380862
+1988,Europe,Oil,0.617421535
+1988,Oceania,Oil,0.226489076
+1988,GLO,Oil,0.358561634
+1989,North America,Oil,0.046708955
+1989,China,Oil,0
+1989,South America,Oil,0.733971342
+1989,Africa & Asia,Oil,0.535420659
+1989,Europe,Oil,0.656857795
+1989,Oceania,Oil,0.230654184
+1989,GLO,Oil,0.383170833
+1990,North America,Oil,0.046560053
+1990,China,Oil,0
+1990,South America,Oil,0.736229323
+1990,Africa & Asia,Oil,0.420886843
+1990,Europe,Oil,0.724508658
+1990,Oceania,Oil,0.185304267
+1990,GLO,Oil,0.372997237
+1991,North America,Oil,0.041962404
+1991,China,Oil,0
+1991,South America,Oil,0.741810228
+1991,Africa & Asia,Oil,0.461673983
+1991,Europe,Oil,0.693634998
+1991,Oceania,Oil,0.130097167
+1991,GLO,Oil,0.362245889
+1992,North America,Oil,0.049820408
+1992,China,Oil,0
+1992,South America,Oil,0.757751816
+1992,Africa & Asia,Oil,0.479362889
+1992,Europe,Oil,0.684464646
+1992,Oceania,Oil,0.125243199
+1992,GLO,Oil,0.370856838
+1993,North America,Oil,0.040817804
+1993,China,Oil,0
+1993,South America,Oil,0.742219276
+1993,Africa & Asia,Oil,0.465471152
+1993,Europe,Oil,0.693070312
+1993,Oceania,Oil,0.132588558
+1993,GLO,Oil,0.376471108
+1994,North America,Oil,0.036160047
+1994,China,Oil,0
+1994,South America,Oil,0.745671896
+1994,Africa & Asia,Oil,0.474389009
+1994,Europe,Oil,0.688288354
+1994,Oceania,Oil,0.128544948
+1994,GLO,Oil,0.379333824
+1995,North America,Oil,0.015384377
+1995,China,Oil,0
+1995,South America,Oil,0.752523283
+1995,Africa & Asia,Oil,0.472611288
+1995,Europe,Oil,0.695355215
+1995,Oceania,Oil,0.119390617
+1995,GLO,Oil,0.368296067
+1996,North America,Oil,0.043765495
+1996,China,Oil,0
+1996,South America,Oil,0.742609512
+1996,Africa & Asia,Oil,0.461498553
+1996,Europe,Oil,0.80543955
+1996,Oceania,Oil,0.12409065
+1996,GLO,Oil,0.385045578
+1997,North America,Oil,0.037553856
+1997,China,Oil,0
+1997,South America,Oil,0.740007645
+1997,Africa & Asia,Oil,0.432017665
+1997,Europe,Oil,0.820359515
+1997,Oceania,Oil,0.120627567
+1997,GLO,Oil,0.396874148
+1998,North America,Oil,0.044037188
+1998,China,Oil,0.045601017
+1998,South America,Oil,0.748740544
+1998,Africa & Asia,Oil,0.433377088
+1998,Europe,Oil,0.825124277
+1998,Oceania,Oil,0.12188517
+1998,GLO,Oil,0.313783122
+1999,North America,Oil,0.05093289
+1999,China,Oil,0.045602362
+1999,South America,Oil,0.757770539
+1999,Africa & Asia,Oil,0.412339524
+1999,Europe,Oil,0.830481968
+1999,Oceania,Oil,0.115065105
+1999,GLO,Oil,0.305068485
+2000,North America,Oil,0.035673433
+2000,China,Oil,0.045600917
+2000,South America,Oil,0.768982371
+2000,Africa & Asia,Oil,0.379054395
+2000,Europe,Oil,0.829280022
+2000,Oceania,Oil,0.108112897
+2000,GLO,Oil,0.306127234
+2001,North America,Oil,0.094471093
+2001,China,Oil,0.045600917
+2001,South America,Oil,0.765416725
+2001,Africa & Asia,Oil,0.407242711
+2001,Europe,Oil,0.830120373
+2001,Oceania,Oil,0.115245406
+2001,GLO,Oil,0.308032742
+2002,North America,Oil,0.094471093
+2002,China,Oil,0.045600917
+2002,South America,Oil,0.765416725
+2002,Africa & Asia,Oil,0.407242711
+2002,Europe,Oil,0.830120373
+2002,Oceania,Oil,0.115245406
+2002,GLO,Oil,0.308032742
+2003,North America,Oil,0.097038543
+2003,China,Oil,0.045600917
+2003,South America,Oil,0.781086371
+2003,Africa & Asia,Oil,0.529630726
+2003,Europe,Oil,0.744746759
+2003,Oceania,Oil,0.115268322
+2003,GLO,Oil,0.312731623
+2004,North America,Oil,0.103918015
+2004,China,Oil,0.045600917
+2004,South America,Oil,0.692635934
+2004,Africa & Asia,Oil,0.305650806
+2004,Europe,Oil,0.539030985
+2004,Oceania,Oil,0.114154836
+2004,GLO,Oil,0.259555543
+2005,North America,Oil,0.093621465
+2005,China,Oil,0.045600917
+2005,South America,Oil,0.731467734
+2005,Africa & Asia,Oil,0.333767342
+2005,Europe,Oil,0.734897745
+2005,Oceania,Oil,0.089683707
+2005,GLO,Oil,0.274703731
+2006,North America,Oil,0.060007307
+2006,China,Oil,0.045600917
+2006,South America,Oil,0.748840554
+2006,Africa & Asia,Oil,0.357483949
+2006,Europe,Oil,0.260231423
+2006,Oceania,Oil,0.09776527
+2006,GLO,Oil,0.232021227
+2007,North America,Oil,0.075872293
+2007,China,Oil,0.045600917
+2007,South America,Oil,0.735112412
+2007,Africa & Asia,Oil,0.49199582
+2007,Europe,Oil,0.341790223
+2007,Oceania,Oil,0.099538011
+2007,GLO,Oil,0.20312923
+2008,North America,Oil,0.066689264
+2008,China,Oil,0.045600917
+2008,South America,Oil,0.715014702
+2008,Africa & Asia,Oil,0.3230532
+2008,Europe,Oil,0.262306065
+2008,Oceania,Oil,0.120852136
+2008,GLO,Oil,0.192383442
+2009,North America,Oil,0.041230693
+2009,China,Oil,0.045600917
+2009,South America,Oil,0.648055185
+2009,Africa & Asia,Oil,0.376630504
+2009,Europe,Oil,0.129277504
+2009,Oceania,Oil,0.219693683
+2009,GLO,Oil,0.171198189
+2010,North America,Oil,0
+2010,China,Oil,0.045600917
+2010,South America,Oil,0.568534885
+2010,Africa & Asia,Oil,0.398443419
+2010,Europe,Oil,0.202344796
+2010,Oceania,Oil,0.1362125
+2010,GLO,Oil,0.150017911
+2011,North America,Oil,0
+2011,China,Oil,0.045600917
+2011,South America,Oil,0.5607068
+2011,Africa & Asia,Oil,0.22357852
+2011,Europe,Oil,0.181986894
+2011,Oceania,Oil,0.202800997
+2011,GLO,Oil,0.148466241
+2012,North America,Oil,6.99E-05
+2012,China,Oil,0.045600917
+2012,South America,Oil,0.599613325
+2012,Africa & Asia,Oil,0.126051916
+2012,Europe,Oil,0.153063484
+2012,Oceania,Oil,0.103787583
+2012,GLO,Oil,0.120920489
+2013,North America,Oil,0.000423138
+2013,China,Oil,0.045600917
+2013,South America,Oil,0.658086565
+2013,Africa & Asia,Oil,0.171763993
+2013,Europe,Oil,0.130040944
+2013,Oceania,Oil,0.105482018
+2013,GLO,Oil,0.118444796
+2014,North America,Oil,0.000365925
+2014,China,Oil,0.045600917
+2014,South America,Oil,0.638827734
+2014,Africa & Asia,Oil,0.174813298
+2014,Europe,Oil,0.105047189
+2014,Oceania,Oil,0.071689537
+2014,GLO,Oil,0.10806127
+2015,North America,Oil,0
+2015,China,Oil,0.045600917
+2015,South America,Oil,0.647085718
+2015,Africa & Asia,Oil,0.185812178
+2015,Europe,Oil,0.00160138
+2015,Oceania,Oil,0.019860004
+2015,GLO,Oil,0.095637136
+2016,North America,Oil,0.000707807
+2016,China,Oil,0.045600917
+2016,South America,Oil,0.631764582
+2016,Africa & Asia,Oil,0.186767496
+2016,Europe,Oil,0.000278041
+2016,Oceania,Oil,0.022216659
+2016,GLO,Oil,0.094520728
+2017,North America,Oil,0.001291644
+2017,China,Oil,0.045600917
+2017,South America,Oil,0.620701055
+2017,Africa & Asia,Oil,0.205428159
+2017,Europe,Oil,0.000171395
+2017,Oceania,Oil,0.011139163
+2017,GLO,Oil,0.090023818
+2018,North America,Oil,0
+2018,China,Oil,0.045600917
+2018,South America,Oil,0.576614672
+2018,Africa & Asia,Oil,0.164750958
+2018,Europe,Oil,0.000278208
+2018,Oceania,Oil,0.002001884
+2018,GLO,Oil,0.074861796
+1985,North America,Gas,0.870147605
+1985,China,Gas,0
+1985,South America,Gas,2.79E-05
+1985,Africa & Asia,Gas,0
+1985,Europe,Gas,0.236020766
+1985,Oceania,Gas,0.416575738
+1985,GLO,Gas,0.382055687
+1986,North America,Gas,0.879724163
+1986,China,Gas,0
+1986,South America,Gas,0.193133757
+1986,Africa & Asia,Gas,0
+1986,Europe,Gas,0.223873273
+1986,Oceania,Gas,0.450561153
+1986,GLO,Gas,0.398140185
+1987,North America,Gas,0.938746146
+1987,China,Gas,0
+1987,South America,Gas,0.196113958
+1987,Africa & Asia,Gas,0
+1987,Europe,Gas,0.202047886
+1987,Oceania,Gas,0.458225922
+1987,GLO,Gas,0.425159749
+1988,North America,Gas,0.945302268
+1988,China,Gas,0
+1988,South America,Gas,0.205252885
+1988,Africa & Asia,Gas,0
+1988,Europe,Gas,0.184394013
+1988,Oceania,Gas,0.468911487
+1988,GLO,Gas,0.425366029
+1989,North America,Gas,0.950902051
+1989,China,Gas,0
+1989,South America,Gas,0.165097793
+1989,Africa & Asia,Gas,0
+1989,Europe,Gas,0.145052814
+1989,Oceania,Gas,0.466689638
+1989,GLO,Gas,0.415476022
+1990,North America,Gas,0.938822256
+1990,China,Gas,0
+1990,South America,Gas,0.157072396
+1990,Africa & Asia,Gas,0
+1990,Europe,Gas,0.10780835
+1990,Oceania,Gas,0.50604238
+1990,GLO,Gas,0.414096962
+1991,North America,Gas,0.94011312
+1991,China,Gas,0
+1991,South America,Gas,0.156584263
+1991,Africa & Asia,Gas,0.000447908
+1991,Europe,Gas,0.118362749
+1991,Oceania,Gas,0.566782487
+1991,GLO,Gas,0.429518952
+1992,North America,Gas,0.930940713
+1992,China,Gas,0
+1992,South America,Gas,0.137397148
+1992,Africa & Asia,Gas,0
+1992,Europe,Gas,0.124226239
+1992,Oceania,Gas,0.562418228
+1992,GLO,Gas,0.416073749
+1993,North America,Gas,0.91811824
+1993,China,Gas,0
+1993,South America,Gas,0.14804214
+1993,Africa & Asia,Gas,0
+1993,Europe,Gas,0.112066049
+1993,Oceania,Gas,0.557270236
+1993,GLO,Gas,0.404844876
+1994,North America,Gas,0.912695833
+1994,China,Gas,0
+1994,South America,Gas,0.156798267
+1994,Africa & Asia,Gas,0.005090383
+1994,Europe,Gas,0.112288789
+1994,Oceania,Gas,0.554804622
+1994,GLO,Gas,0.399447338
+1995,North America,Gas,0.907972327
+1995,China,Gas,0
+1995,South America,Gas,0.164895692
+1995,Africa & Asia,Gas,0
+1995,Europe,Gas,0.102485054
+1995,Oceania,Gas,0.583529238
+1995,GLO,Gas,0.414312018
+1996,North America,Gas,0.919312935
+1996,China,Gas,0
+1996,South America,Gas,0.166817522
+1996,Africa & Asia,Gas,0
+1996,Europe,Gas,0.007429015
+1996,Oceania,Gas,0.579006299
+1996,GLO,Gas,0.406846333
+1997,North America,Gas,0.898691923
+1997,China,Gas,0
+1997,South America,Gas,0.162586628
+1997,Africa & Asia,Gas,0
+1997,Europe,Gas,0.005939977
+1997,Oceania,Gas,0.59620709
+1997,GLO,Gas,0.388069459
+1998,North America,Gas,0.88555679
+1998,China,Gas,0.125997753
+1998,South America,Gas,0.137588708
+1998,Africa & Asia,Gas,0
+1998,Europe,Gas,0.007468601
+1998,Oceania,Gas,0.592102763
+1998,GLO,Gas,0.31684176
+1999,North America,Gas,0.873419947
+1999,China,Gas,0.12599668
+1999,South America,Gas,0.135827688
+1999,Africa & Asia,Gas,0
+1999,Europe,Gas,0.00720345
+1999,Oceania,Gas,0.59059904
+1999,GLO,Gas,0.314883132
+2000,North America,Gas,0.872118498
+2000,China,Gas,0.126001853
+2000,South America,Gas,0.145108382
+2000,Africa & Asia,Gas,0
+2000,Europe,Gas,0.008175323
+2000,Oceania,Gas,0.604529139
+2000,GLO,Gas,0.318888466
+2001,North America,Gas,0.807043676
+2001,China,Gas,0.126001853
+2001,South America,Gas,0.16668233
+2001,Africa & Asia,Gas,0
+2001,Europe,Gas,0.007444113
+2001,Oceania,Gas,0.605216271
+2001,GLO,Gas,0.308951498
+2002,North America,Gas,0.807043676
+2002,China,Gas,0.126001853
+2002,South America,Gas,0.16668233
+2002,Africa & Asia,Gas,0
+2002,Europe,Gas,0.007444113
+2002,Oceania,Gas,0.605216271
+2002,GLO,Gas,0.308951498
+2003,North America,Gas,0.837570473
+2003,China,Gas,0.126001853
+2003,South America,Gas,0.138724984
+2003,Africa & Asia,Gas,0
+2003,Europe,Gas,0.052340806
+2003,Oceania,Gas,0.555253306
+2003,GLO,Gas,0.298250434
+2004,North America,Gas,0.829802745
+2004,China,Gas,0.126001853
+2004,South America,Gas,0.198114841
+2004,Africa & Asia,Gas,0
+2004,Europe,Gas,0.198601445
+2004,Oceania,Gas,0.545219012
+2004,GLO,Gas,0.310189857
+2005,North America,Gas,0.850241003
+2005,China,Gas,0.126001853
+2005,South America,Gas,0.177465699
+2005,Africa & Asia,Gas,0
+2005,Europe,Gas,0.057089342
+2005,Oceania,Gas,0.559017251
+2005,GLO,Gas,0.30157745
+2006,North America,Gas,0.884810936
+2006,China,Gas,0.126001853
+2006,South America,Gas,0.158008269
+2006,Africa & Asia,Gas,0.000421348
+2006,Europe,Gas,0.475248488
+2006,Oceania,Gas,0.563018436
+2006,GLO,Gas,0.327192283
+2007,North America,Gas,0.658265827
+2007,China,Gas,0.126001853
+2007,South America,Gas,0.165012144
+2007,Africa & Asia,Gas,0.035109718
+2007,Europe,Gas,0.409105048
+2007,Oceania,Gas,0.58366158
+2007,GLO,Gas,0.278827085
+2008,North America,Gas,0.660588086
+2008,China,Gas,0.126001853
+2008,South America,Gas,0.150245038
+2008,Africa & Asia,Gas,0.000954584
+2008,Europe,Gas,0.405509849
+2008,Oceania,Gas,0.540849845
+2008,GLO,Gas,0.259607984
+2009,North America,Gas,0.540888142
+2009,China,Gas,0.126001853
+2009,South America,Gas,0.131924454
+2009,Africa & Asia,Gas,0.000928701
+2009,Europe,Gas,0.5371198
+2009,Oceania,Gas,0.409514832
+2009,GLO,Gas,0.248012347
+2010,North America,Gas,0.698325182
+2010,China,Gas,0.126001853
+2010,South America,Gas,0.190058545
+2010,Africa & Asia,Gas,0.020283766
+2010,Europe,Gas,0.461232402
+2010,Oceania,Gas,0.605492168
+2010,GLO,Gas,0.262357935
+2011,North America,Gas,0.694000344
+2011,China,Gas,0.126001853
+2011,South America,Gas,0.165866558
+2011,Africa & Asia,Gas,0.013312274
+2011,Europe,Gas,0.486143397
+2011,Oceania,Gas,0.530805448
+2011,GLO,Gas,0.253713436
+2012,North America,Gas,0.926674594
+2012,China,Gas,0.126001853
+2012,South America,Gas,0.151183485
+2012,Africa & Asia,Gas,0.0126357
+2012,Europe,Gas,0.577101924
+2012,Oceania,Gas,0.573888714
+2012,GLO,Gas,0.26458478
+2013,North America,Gas,0.70779984
+2013,China,Gas,0.126001853
+2013,South America,Gas,0.077948047
+2013,Africa & Asia,Gas,0.009014465
+2013,Europe,Gas,0.578921296
+2013,Oceania,Gas,0.557750733
+2013,GLO,Gas,0.259522882
+2014,North America,Gas,0.737470726
+2014,China,Gas,0.126001853
+2014,South America,Gas,0.069861756
+2014,Africa & Asia,Gas,0.008398669
+2014,Europe,Gas,0.614560612
+2014,Oceania,Gas,0.580635869
+2014,GLO,Gas,0.262314175
+2015,North America,Gas,0.698683798
+2015,China,Gas,0.126001853
+2015,South America,Gas,0.067969422
+2015,Africa & Asia,Gas,0.007117636
+2015,Europe,Gas,0.715467685
+2015,Oceania,Gas,0.604521023
+2015,GLO,Gas,0.260257163
+2016,North America,Gas,0.673307817
+2016,China,Gas,0.126001853
+2016,South America,Gas,0.053886
+2016,Africa & Asia,Gas,0.008921243
+2016,Europe,Gas,0.948819871
+2016,Oceania,Gas,0.591078744
+2016,GLO,Gas,0.277681036
+2017,North America,Gas,0.932834491
+2017,China,Gas,0.126001853
+2017,South America,Gas,0.0538383
+2017,Africa & Asia,Gas,0.158182619
+2017,Europe,Gas,0.951061642
+2017,Oceania,Gas,0.595207709
+2017,GLO,Gas,0.273415917
+2018,North America,Gas,0.798777983
+2018,China,Gas,0.126001853
+2018,South America,Gas,0.066914453
+2018,Africa & Asia,Gas,0.201190185
+2018,Europe,Gas,0.85676245
+2018,Oceania,Gas,0.591780499
+2018,GLO,Gas,0.266050714
+1985,North America,Electricity,0.099066171
+1985,China,Electricity,0
+1985,South America,Electricity,0.105148719
+1985,Africa & Asia,Electricity,0.095343245
+1985,Europe,Electricity,0.18119139
+1985,Oceania,Electricity,0.043396983
+1985,GLO,Electricity,0.089066638
+1986,North America,Electricity,0.095557944
+1986,China,Electricity,0
+1986,South America,Electricity,0.06307234
+1986,Africa & Asia,Electricity,0.077233924
+1986,Europe,Electricity,0.17578125
+1986,Oceania,Electricity,0.010502171
+1986,GLO,Electricity,0.066690194
+1987,North America,Electricity,0.036690647
+1987,China,Electricity,0
+1987,South America,Electricity,0.058946351
+1987,Africa & Asia,Electricity,0.069116159
+1987,Europe,Electricity,0.172052834
+1987,Oceania,Electricity,0.048389602
+1987,GLO,Electricity,0.069920196
+1988,North America,Electricity,0.006321848
+1988,China,Electricity,0
+1988,South America,Electricity,0.074615622
+1988,Africa & Asia,Electricity,0.079166104
+1988,Europe,Electricity,0.176204732
+1988,Oceania,Electricity,0.049235442
+1988,GLO,Electricity,0.068061918
+1989,North America,Electricity,0.002388994
+1989,China,Electricity,0
+1989,South America,Electricity,0.062480389
+1989,Africa & Asia,Electricity,0.068832293
+1989,Europe,Electricity,0.158948155
+1989,Oceania,Electricity,0.050894801
+1989,GLO,Electricity,0.059827851
+1990,North America,Electricity,0.014617691
+1990,China,Electricity,0
+1990,South America,Electricity,0.071691403
+1990,Africa & Asia,Electricity,0.063423795
+1990,Europe,Electricity,0.154297248
+1990,Oceania,Electricity,0.055552476
+1990,GLO,Electricity,0.064368317
+1991,North America,Electricity,0.017924476
+1991,China,Electricity,0
+1991,South America,Electricity,0.066878781
+1991,Africa & Asia,Electricity,0.062259249
+1991,Europe,Electricity,0.148798348
+1991,Oceania,Electricity,0.056273671
+1991,GLO,Electricity,0.064680272
+1992,North America,Electricity,0.019238879
+1992,China,Electricity,0
+1992,South America,Electricity,0.070106568
+1992,Africa & Asia,Electricity,0.059391685
+1992,Europe,Electricity,0.142548902
+1992,Oceania,Electricity,0.051954743
+1992,GLO,Electricity,0.064040071
+1993,North America,Electricity,0.041063956
+1993,China,Electricity,0
+1993,South America,Electricity,0.076556898
+1993,Africa & Asia,Electricity,0.052183114
+1993,Europe,Electricity,0.159352372
+1993,Oceania,Electricity,0.051160532
+1993,GLO,Electricity,0.071424893
+1994,North America,Electricity,0.05114412
+1994,China,Electricity,0
+1994,South America,Electricity,0.062556821
+1994,Africa & Asia,Electricity,0.049660159
+1994,Europe,Electricity,0.167425906
+1994,Oceania,Electricity,0.049723981
+1994,GLO,Electricity,0.069348634
+1995,North America,Electricity,0.076643296
+1995,China,Electricity,0
+1995,South America,Electricity,0.044529637
+1995,Africa & Asia,Electricity,0.054111774
+1995,Europe,Electricity,0.163035888
+1995,Oceania,Electricity,0.046655086
+1995,GLO,Electricity,0.067280899
+1996,North America,Electricity,0.03692157
+1996,China,Electricity,0
+1996,South America,Electricity,0.055725386
+1996,Africa & Asia,Electricity,0.053847414
+1996,Europe,Electricity,0.162347065
+1996,Oceania,Electricity,0.046082056
+1996,GLO,Electricity,0.060866664
+1997,North America,Electricity,0.063754221
+1997,China,Electricity,0
+1997,South America,Electricity,0.062970534
+1997,Africa & Asia,Electricity,0.055396081
+1997,Europe,Electricity,0.155530021
+1997,Oceania,Electricity,0.044485864
+1997,GLO,Electricity,0.066390266
+1998,North America,Electricity,0.070406022
+1998,China,Electricity,0.093700112
+1998,South America,Electricity,0.053185682
+1998,Africa & Asia,Electricity,0.082747793
+1998,Europe,Electricity,0.156288274
+1998,Oceania,Electricity,0.045733663
+1998,GLO,Electricity,0.071911863
+1999,North America,Electricity,0.075647162
+1999,China,Electricity,0.093701527
+1999,South America,Electricity,0.038306531
+1999,Africa & Asia,Electricity,0.074037143
+1999,Europe,Electricity,0.151414625
+1999,Oceania,Electricity,0.045983084
+1999,GLO,Electricity,0.068645586
+2000,North America,Electricity,0.092208069
+2000,China,Electricity,0.093702823
+2000,South America,Electricity,0.030121934
+2000,Africa & Asia,Electricity,0.076578343
+2000,Europe,Electricity,0.151163323
+2000,Oceania,Electricity,0.04428542
+2000,GLO,Electricity,0.067698172
+2001,North America,Electricity,0.098485231
+2001,China,Electricity,0.093702823
+2001,South America,Electricity,0.031389502
+2001,Africa & Asia,Electricity,0.019171881
+2001,Europe,Electricity,0.152163092
+2001,Oceania,Electricity,0.034524877
+2001,GLO,Electricity,0.062208749
+2002,North America,Electricity,0.098485231
+2002,China,Electricity,0.093702823
+2002,South America,Electricity,0.031389502
+2002,Africa & Asia,Electricity,0.019171881
+2002,Europe,Electricity,0.152163092
+2002,Oceania,Electricity,0.034524877
+2002,GLO,Electricity,0.062208749
+2003,North America,Electricity,0.065390984
+2003,China,Electricity,0.093702823
+2003,South America,Electricity,0.05257076
+2003,Africa & Asia,Electricity,0.031893744
+2003,Europe,Electricity,0.195327968
+2003,Oceania,Electricity,0.066638213
+2003,GLO,Electricity,0.0822705
+2004,North America,Electricity,0.066279239
+2004,China,Electricity,0.093702823
+2004,South America,Electricity,0.069546627
+2004,Africa & Asia,Electricity,0.017896566
+2004,Europe,Electricity,0.149785008
+2004,Oceania,Electricity,0.072847381
+2004,GLO,Electricity,0.08436379
+2005,North America,Electricity,0.056137532
+2005,China,Electricity,0.093702823
+2005,South America,Electricity,0.059666199
+2005,Africa & Asia,Electricity,0.04956674
+2005,Europe,Electricity,0.20076444
+2005,Oceania,Electricity,0.097850237
+2005,GLO,Electricity,0.091833719
+2006,North America,Electricity,0.055181757
+2006,China,Electricity,0.093702823
+2006,South America,Electricity,0.0655222
+2006,Africa & Asia,Electricity,0.046107544
+2006,Europe,Electricity,0.177272319
+2006,Oceania,Electricity,0.088120394
+2006,GLO,Electricity,0.094120024
+2007,North America,Electricity,0.060570763
+2007,China,Electricity,0.093702823
+2007,South America,Electricity,0.066133151
+2007,Africa & Asia,Electricity,0.025036573
+2007,Europe,Electricity,0.247653153
+2007,Oceania,Electricity,0.046463682
+2007,GLO,Electricity,0.094954302
+2008,North America,Electricity,0.070926193
+2008,China,Electricity,0.093702823
+2008,South America,Electricity,0.044639794
+2008,Africa & Asia,Electricity,0.016962221
+2008,Europe,Electricity,0.226929959
+2008,Oceania,Electricity,0.087101134
+2008,GLO,Electricity,0.094861753
+2009,North America,Electricity,0.072309417
+2009,China,Electricity,0.093702823
+2009,South America,Electricity,0.048041143
+2009,Africa & Asia,Electricity,0.02640466
+2009,Europe,Electricity,0.093980023
+2009,Oceania,Electricity,0.114768594
+2009,GLO,Electricity,0.086911666
+2010,North America,Electricity,0.04796069
+2010,China,Electricity,0.093702823
+2010,South America,Electricity,0.040108886
+2010,Africa & Asia,Electricity,0.013912804
+2010,Europe,Electricity,0.076510501
+2010,Oceania,Electricity,0.02195869
+2010,GLO,Electricity,0.070089821
+2011,North America,Electricity,0.041215403
+2011,China,Electricity,0.093702823
+2011,South America,Electricity,0.054722892
+2011,Africa & Asia,Electricity,0.026511733
+2011,Europe,Electricity,0.072052423
+2011,Oceania,Electricity,0.026980055
+2011,GLO,Electricity,0.070758254
+2012,North America,Electricity,0.050663309
+2012,China,Electricity,0.093702823
+2012,South America,Electricity,0.030990632
+2012,Africa & Asia,Electricity,0.031703659
+2012,Europe,Electricity,0.077611213
+2012,Oceania,Electricity,0.036632297
+2012,GLO,Electricity,0.072681334
+2013,North America,Electricity,0.048018305
+2013,China,Electricity,0.093702823
+2013,South America,Electricity,0.023786152
+2013,Africa & Asia,Electricity,0.003610445
+2013,Europe,Electricity,0.121326391
+2013,Oceania,Electricity,0.037563966
+2013,GLO,Electricity,0.07440718
+2014,North America,Electricity,0.045564988
+2014,China,Electricity,0.093702823
+2014,South America,Electricity,0.035884592
+2014,Africa & Asia,Electricity,0.001744876
+2014,Europe,Electricity,0.111547848
+2014,Oceania,Electricity,0.049827841
+2014,GLO,Electricity,0.076829833
+2015,North America,Electricity,0.038780946
+2015,China,Electricity,0.093702823
+2015,South America,Electricity,0.034510507
+2015,Africa & Asia,Electricity,0.001479352
+2015,Europe,Electricity,0.114046974
+2015,Oceania,Electricity,0.040604598
+2015,GLO,Electricity,0.074151535
+2016,North America,Electricity,0.318277146
+2016,China,Electricity,0.093702823
+2016,South America,Electricity,0.032262405
+2016,Africa & Asia,Electricity,0.002502792
+2016,Europe,Electricity,0.04764798
+2016,Oceania,Electricity,0.025958125
+2016,GLO,Electricity,0.074240876
+2017,North America,Electricity,0.062132549
+2017,China,Electricity,0.093702823
+2017,South America,Electricity,0.041256259
+2017,Africa & Asia,Electricity,0.020422897
+2017,Europe,Electricity,0.045520537
+2017,Oceania,Electricity,0.025061961
+2017,GLO,Electricity,0.069924062
+2018,North America,Electricity,0.128414459
+2018,China,Electricity,0.093702823
+2018,South America,Electricity,0.038849622
+2018,Africa & Asia,Electricity,0.020659376
+2018,Europe,Electricity,0.042913636
+2018,Oceania,Electricity,0.026467263
+2018,GLO,Electricity,0.071637098
+1985,North America,Other,0
+1985,China,Other,0
+1985,South America,Other,0
+1985,Africa & Asia,Other,0
+1985,Europe,Other,0.011162867
+1985,Oceania,Other,0.012660462
+1985,GLO,Other,0.007594302
+1986,North America,Other,0.010097618
+1986,China,Other,0
+1986,South America,Other,0
+1986,Africa & Asia,Other,0
+1986,Europe,Other,0.010246545
+1986,Oceania,Other,0.000229377
+1986,GLO,Other,0.003429762
+1987,North America,Other,0
+1987,China,Other,0
+1987,South America,Other,0
+1987,Africa & Asia,Other,0
+1987,Europe,Other,0.008716836
+1987,Oceania,Other,0
+1987,GLO,Other,0.001433907
+1988,North America,Other,0
+1988,China,Other,0
+1988,South America,Other,0
+1988,Africa & Asia,Other,0
+1988,Europe,Other,0.009058426
+1988,Oceania,Other,0
+1988,GLO,Other,0.001404234
+1989,North America,Other,0
+1989,China,Other,0
+1989,South America,Other,0
+1989,Africa & Asia,Other,0
+1989,Europe,Other,0.012057439
+1989,Oceania,Other,0
+1989,GLO,Other,0.001624101
+1990,North America,Other,0
+1990,China,Other,0
+1990,South America,Other,0
+1990,Africa & Asia,Other,0.062696874
+1990,Europe,Other,0.013385743
+1990,Oceania,Other,0
+1990,GLO,Other,0.006997683
+1991,North America,Other,0
+1991,China,Other,0
+1991,South America,Other,0
+1991,Africa & Asia,Other,0
+1991,Europe,Other,0.005858055
+1991,Oceania,Other,0
+1991,GLO,Other,0.00077709
+1992,North America,Other,0
+1992,China,Other,0
+1992,South America,Other,0
+1992,Africa & Asia,Other,0
+1992,Europe,Other,0.048760214
+1992,Oceania,Other,0
+1992,GLO,Other,0.00686357
+1993,North America,Other,0
+1993,China,Other,0
+1993,South America,Other,0
+1993,Africa & Asia,Other,0.003230118
+1993,Europe,Other,0.035511268
+1993,Oceania,Other,0
+1993,GLO,Other,0.00543197
+1994,North America,Other,0
+1994,China,Other,0
+1994,South America,Other,0
+1994,Africa & Asia,Other,0.005437455
+1994,Europe,Other,0.031996951
+1994,Oceania,Other,0
+1994,GLO,Other,0.004848217
+1995,North America,Other,0
+1995,China,Other,0
+1995,South America,Other,0
+1995,Africa & Asia,Other,0.009624185
+1995,Europe,Other,0.039123844
+1995,Oceania,Other,0
+1995,GLO,Other,0.006185996
+1996,North America,Other,0
+1996,China,Other,0
+1996,South America,Other,0
+1996,Africa & Asia,Other,0.010512807
+1996,Europe,Other,0.02478437
+1996,Oceania,Other,0
+1996,GLO,Other,0.00365368
+1997,North America,Other,0
+1997,China,Other,0
+1997,South America,Other,0
+1997,Africa & Asia,Other,0.023047198
+1997,Europe,Other,0.018170487
+1997,Oceania,Other,0
+1997,GLO,Other,0.004157769
+1998,North America,Other,0
+1998,China,Other,0.009999704
+1998,South America,Other,0
+1998,Africa & Asia,Other,0.008699457
+1998,Europe,Other,0.011118849
+1998,Oceania,Other,0
+1998,GLO,Other,0.00383934
+1999,North America,Other,0
+1999,China,Other,0.010000816
+1999,South America,Other,0
+1999,Africa & Asia,Other,0.010095974
+1999,Europe,Other,0.010899957
+1999,Oceania,Other,0
+1999,GLO,Other,0.004029044
+2000,North America,Other,0
+2000,China,Other,0.009997473
+2000,South America,Other,0
+2000,Africa & Asia,Other,0.008963083
+2000,Europe,Other,0.011381332
+2000,Oceania,Other,0
+2000,GLO,Other,0.003952298
+2001,North America,Other,0
+2001,China,Other,0.009997473
+2001,South America,Other,0
+2001,Africa & Asia,Other,0
+2001,Europe,Other,0.010272423
+2001,Oceania,Other,0
+2001,GLO,Other,0.003510291
+2002,North America,Other,0
+2002,China,Other,0.009997473
+2002,South America,Other,0
+2002,Africa & Asia,Other,0
+2002,Europe,Other,0.010272423
+2002,Oceania,Other,0
+2002,GLO,Other,0.003510291
+2003,North America,Other,0
+2003,China,Other,0.009997473
+2003,South America,Other,0
+2003,Africa & Asia,Other,0
+2003,Europe,Other,0.007584467
+2003,Oceania,Other,0.029516424
+2003,GLO,Other,0.012386649
+2004,North America,Other,0
+2004,China,Other,0.009997473
+2004,South America,Other,0
+2004,Africa & Asia,Other,0
+2004,Europe,Other,0.00507558
+2004,Oceania,Other,0.028075332
+2004,GLO,Other,0.011564933
+2005,North America,Other,0
+2005,China,Other,0.009997473
+2005,South America,Other,0
+2005,Africa & Asia,Other,0.015781439
+2005,Europe,Other,0.007248473
+2005,Oceania,Other,0.028888977
+2005,GLO,Other,0.01246335
+2006,North America,Other,0
+2006,China,Other,0.009997473
+2006,South America,Other,0
+2006,Africa & Asia,Other,0.050481541
+2006,Europe,Other,0.085204479
+2006,Oceania,Other,0.021526867
+2006,GLO,Other,0.023063597
+2007,North America,Other,0.205291117
+2007,China,Other,0.009997473
+2007,South America,Other,1.25E-05
+2007,Africa & Asia,Other,0.121421108
+2007,Europe,Other,0
+2007,Oceania,Other,0.025340817
+2007,GLO,Other,0.022955763
+2008,North America,Other,0.200694856
+2008,China,Other,0.009997473
+2008,South America,Other,0
+2008,Africa & Asia,Other,0.056540735
+2008,Europe,Other,0.104878308
+2008,Oceania,Other,0.015649983
+2008,GLO,Other,0.03176773
+2009,North America,Other,0.342613353
+2009,China,Other,0.009997473
+2009,South America,Other,0
+2009,Africa & Asia,Other,0.041474946
+2009,Europe,Other,0.059193782
+2009,Oceania,Other,0.255872735
+2009,GLO,Other,0.06164179
+2010,North America,Other,0.253714128
+2010,China,Other,0.009997473
+2010,South America,Other,0
+2010,Africa & Asia,Other,0.145464564
+2010,Europe,Other,0.259699977
+2010,Oceania,Other,0.112188945
+2010,GLO,Other,0.063768207
+2011,North America,Other,0.264784253
+2011,China,Other,0.009997473
+2011,South America,Other,0
+2011,Africa & Asia,Other,0.080392599
+2011,Europe,Other,0.259654661
+2011,Oceania,Other,0.073744563
+2011,GLO,Other,0.054913365
+2012,North America,Other,0.020680329
+2012,China,Other,0.009997473
+2012,South America,Other,0
+2012,Africa & Asia,Other,0.083390537
+2012,Europe,Other,0.192223379
+2012,Oceania,Other,0.082671138
+2012,GLO,Other,0.037906063
+2013,North America,Other,0.242536319
+2013,China,Other,0.009997473
+2013,South America,Other,0
+2013,Africa & Asia,Other,0.077216929
+2013,Europe,Other,0.169711368
+2013,Oceania,Other,0.092854646
+2013,GLO,Other,0.050470997
+2014,North America,Other,0.215559133
+2014,China,Other,0.009997473
+2014,South America,Other,0
+2014,Africa & Asia,Other,0.069515855
+2014,Europe,Other,0.168844351
+2014,Oceania,Other,0.054798279
+2014,GLO,Other,0.041131201
+2015,North America,Other,0.262535255
+2015,China,Other,0.009997473
+2015,South America,Other,0
+2015,Africa & Asia,Other,0.050367745
+2015,Europe,Other,0.001919603
+2015,Oceania,Other,0.06227705
+2015,GLO,Other,0.029417227
+2016,North America,Other,0.005662455
+2016,China,Other,0.009997473
+2016,South America,Other,0
+2016,Africa & Asia,Other,0.049652166
+2016,Europe,Other,0.003254109
+2016,Oceania,Other,0.060045517
+2016,GLO,Other,0.019812024
+2017,North America,Other,4.45E-05
+2017,China,Other,0.009997473
+2017,South America,Other,0
+2017,Africa & Asia,Other,0.046376741
+2017,Europe,Other,0.003246426
+2017,Oceania,Other,0.058729146
+2017,GLO,Other,0.0186888
+2018,North America,Other,0.072807558
+2018,China,Other,0.009997473
+2018,South America,Other,0
+2018,Africa & Asia,Other,0.043880795
+2018,Europe,Other,0.100045706
+2018,Oceania,Other,0.063805935
+2018,GLO,Other,0.027809188
