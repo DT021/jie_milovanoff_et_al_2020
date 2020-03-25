@@ -1,4 +1,3 @@
-# Repository Introduction
 This repository contains the input data, codes and results of the model developed in the paper "**Quantifying environmental impacts of primary aluminum ingot production and consumption: A trade-linked multilevel life cycle assessment**" published in the Journal of Industrial Ecology (2020) by Alexandre Milovanoff<sup>a</sup>, I. Daniel Posen<sup>a</sup>, Heather L. MacLean<sup>a,c</sup>.  
 <sup>a</sup> Department of Civil & Mineral Engineering, University of Toronto, 35 St. George Street, Toronto, Ontario, M5S 1A4 Canada  
 
