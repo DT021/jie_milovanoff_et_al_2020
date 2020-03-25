@@ -4,8 +4,8 @@ This repository contains the input data, codes and results of the model develope
 
 # How to use this repository
 This repository will not be updated but can be cloned and serve as an example to develop trade-linked multilevel life cycle assessment. There are two ways to use this repository:
-* Instal the model, reproduce it and re-use it for your own research.
-* Extract the numerical values of simulations: (https://github.com/amilovanoff/jie_milovanoff_et_al_2020/outputs).  
+* Install the model, reproduce it and re-use it for your own research.
+* Download the repository and extract the numerical values of the simulations presented in [outputs](https://github.com/amilovanoff/jie_milovanoff_et_al_2020/tree/master/outputs) folder.
 
 Feel free me to contact if you have any questions via email (alexandre.milovanoff@mail.utoronto.ca) or by GitHub @amilovanoff.  
 
@@ -19,10 +19,11 @@ The repository comprises 3 folders.
 The python-based model requires the Brightway2 software (https://brightway.dev/), and the ecoinvent 3.4 cutoff database (https://www.ecoinvent.org/) uploaded in the Brightway2 environment.
 * Run the 1-model_set_up.py script. It will adjust the local database to the model.
 * Run the 2-simulations.py script. It will simulate the different results of the manuscript.
+
 The other scripts contain functions developed for the purpose of the model.
 
 # Results description
-The [outputs](https://github.com/amilovanoff/jie_milovanoff_et_al_2020/outputs) folder contains all simulated results that can be directly used for further research. The files are:
+The [outputs](https://github.com/amilovanoff/jie_milovanoff_et_al_2020/tree/master/outputs) folder contains all simulated results that can be directly used for further research. The files are:
 * country_prod_cons_quantity.csv: Country-level production and consumption quantity of bauxite, alumina and aluminum.
 * sankey_diagram_data_mfa.csv: Results of the Trade-Linked Material flow analysis from bauxite mining to primary aluminum ingot consumption in 2000 and 2017. Used in **Figure 2 of the manuscript**.
 * if_alumina_aluminium.csv: Country-level impact factors of alumina refining and primary aluminum ingot production from 2000 to 2017. Used in **Figures 3, 4 and 5 of the manuscript**, and **Figures S1.8, S1.9 and S1.10 of the SI**.
